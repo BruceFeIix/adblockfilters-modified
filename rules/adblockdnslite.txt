@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250701163805
-! Last modified: 2025/07/01 16:38:05
-! Blocked domains: 5594
+! Version: 20250702003600
+! Last modified: 2025/07/02 00:36:00
+! Blocked domains: 5589
 ! unBlocked domains: 23
 !
 ||img.0279.net^
@@ -1330,7 +1330,6 @@
 ||datacaciques.com^
 ||datamaster.com.cn^
 ||datayi.cn^
-||datfi.cn^
 ||dav01.com^
 ||jc1.dayfund.com.cn^
 ||bun1.dayi.org.cn^
@@ -1663,7 +1662,6 @@
 ||img.ferlie.net^
 ||ks.ferlytc.com^
 ||ffnvhig.cn^
-||aeon-pheno.fgxqh.cn^
 ||aeon-septenee.fhbwk.cn^
 ||fhitagd.cn^
 ||a1.firefoxchina.cn^
@@ -2265,7 +2263,6 @@
 ||logconf.iflytek.com^
 ||ifxtx.com^
 ||log.igamecj.com^
-||igesz.cn^
 ||entree.igetget.com^
 ||piccdn.igetget.com^
 ||seeder.igetget.com^
@@ -2428,7 +2425,6 @@
 ||jc001.cn^
 ||jccgty.cn^
 ||jcchunya.cn^
-||jcclfw.com^
 ||jccontainer.cn^
 ||jcxgg.cn^
 ||pic.jd-bbs.com^
@@ -4473,7 +4469,6 @@
 ||u5ps5.icu^
 ||u7u9.com^
 ||u88.cn^
-||ubila.cn^
 ||images.service.ubmsinoexpo.com^
 ||unifi-report.ubnt.com^
 ||ubxqerc.cn^

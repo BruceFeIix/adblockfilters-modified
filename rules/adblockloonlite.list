@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/01 16:38:06
-#!support=5594
+#!date=2025/07/02 00:36:00
+#!support=5589
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,img.0279.net
@@ -1333,7 +1333,6 @@ DOMAIN-SUFFIX,dashet.com
 DOMAIN-SUFFIX,datacaciques.com
 DOMAIN-SUFFIX,datamaster.com.cn
 DOMAIN-SUFFIX,datayi.cn
-DOMAIN-SUFFIX,datfi.cn
 DOMAIN-SUFFIX,dav01.com
 DOMAIN-SUFFIX,jc1.dayfund.com.cn
 DOMAIN-SUFFIX,bun1.dayi.org.cn
@@ -1666,7 +1665,6 @@ DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,img.ferlie.net
 DOMAIN-SUFFIX,ks.ferlytc.com
 DOMAIN-SUFFIX,ffnvhig.cn
-DOMAIN-SUFFIX,aeon-pheno.fgxqh.cn
 DOMAIN-SUFFIX,aeon-septenee.fhbwk.cn
 DOMAIN-SUFFIX,fhitagd.cn
 DOMAIN-SUFFIX,a1.firefoxchina.cn
@@ -2268,7 +2266,6 @@ DOMAIN-SUFFIX,log.iflytek.com
 DOMAIN-SUFFIX,logconf.iflytek.com
 DOMAIN-SUFFIX,ifxtx.com
 DOMAIN-SUFFIX,log.igamecj.com
-DOMAIN-SUFFIX,igesz.cn
 DOMAIN-SUFFIX,entree.igetget.com
 DOMAIN-SUFFIX,piccdn.igetget.com
 DOMAIN-SUFFIX,seeder.igetget.com
@@ -2431,7 +2428,6 @@ DOMAIN-SUFFIX,jbzj.com
 DOMAIN-SUFFIX,jc001.cn
 DOMAIN-SUFFIX,jccgty.cn
 DOMAIN-SUFFIX,jcchunya.cn
-DOMAIN-SUFFIX,jcclfw.com
 DOMAIN-SUFFIX,jccontainer.cn
 DOMAIN-SUFFIX,jcxgg.cn
 DOMAIN-SUFFIX,pic.jd-bbs.com
@@ -4476,7 +4472,6 @@ DOMAIN-SUFFIX,u51.me
 DOMAIN-SUFFIX,u5ps5.icu
 DOMAIN-SUFFIX,u7u9.com
 DOMAIN-SUFFIX,u88.cn
-DOMAIN-SUFFIX,ubila.cn
 DOMAIN-SUFFIX,images.service.ubmsinoexpo.com
 DOMAIN-SUFFIX,unifi-report.ubnt.com
 DOMAIN-SUFFIX,ubxqerc.cn
