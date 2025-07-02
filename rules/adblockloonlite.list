@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/02 00:36:00
-#!support=5589
+#!date=2025/07/02 10:12:05
+#!support=5585
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,img.0279.net
@@ -234,7 +234,6 @@ DOMAIN-SUFFIX,52ch.net
 DOMAIN-SUFFIX,52kuwang.cn
 DOMAIN-SUFFIX,52pk.com
 DOMAIN-SUFFIX,adm.52swine.com
-DOMAIN-SUFFIX,52wmb.com
 DOMAIN-SUFFIX,api.52youtu.com
 DOMAIN-SUFFIX,52z.com
 DOMAIN-SUFFIX,a.52zxw.com
@@ -1651,7 +1650,6 @@ DOMAIN-SUFFIX,api-fp-retry-sa.fengkongcloud.com
 DOMAIN-SUFFIX,cloudconf.fengkongcloud.com
 DOMAIN-SUFFIX,fp-bj.fengkongcloud.com
 DOMAIN-SUFFIX,fp-it.fengkongcloud.com
-DOMAIN-SUFFIX,fp-it-acc.fengkongcloud.com
 DOMAIN-SUFFIX,fp-na-it-acc.fengkongcloud.com
 DOMAIN-SUFFIX,fp-sa-it.fengkongcloud.com
 DOMAIN-SUFFIX,fp-sa-it-acc.fengkongcloud.com
@@ -2060,7 +2058,6 @@ DOMAIN-SUFFIX,auth-launcher-eu.hismarttv.com
 DOMAIN-SUFFIX,auth-launcher-na.hismarttv.com
 DOMAIN-SUFFIX,auth-launcher-sa.hismarttv.com
 DOMAIN-SUFFIX,auth-na.hismarttv.com
-DOMAIN-SUFFIX,auth-phone-afr.hismarttv.com
 DOMAIN-SUFFIX,auth-phone-ap.hismarttv.com
 DOMAIN-SUFFIX,auth-phone-na.hismarttv.com
 DOMAIN-SUFFIX,auth-sa.hismarttv.com
@@ -3296,7 +3293,6 @@ DOMAIN-SUFFIX,apps2.outfit7.com
 DOMAIN-SUFFIX,at-af.outfit7.com
 DOMAIN-SUFFIX,bidder.dsp.outfit7.com
 DOMAIN-SUFFIX,cdn-gcs.outfit7.com
-DOMAIN-SUFFIX,events-api-ak.outfit7.com
 DOMAIN-SUFFIX,hb-af-us-central1.outfit7.com
 DOMAIN-SUFFIX,outofmemory.cn
 DOMAIN-SUFFIX,ouyaoxiazai.com
