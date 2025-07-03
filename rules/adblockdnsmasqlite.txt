@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250703003625
-# Last modified: 2025/07/03 00:36:25
-# Blocked domains: 19747
+# Version: 20250703101248
+# Last modified: 2025/07/03 10:12:48
+# Blocked domains: 19750
 #
 local=/0001.best/
 local=/000283.cn/
@@ -1070,6 +1070,7 @@ local=/adm.52swine.com/
 local=/52tt.com/
 local=/52xiyou.com/
 local=/52xnjd.com/
+local=/api.52youtu.com/
 local=/52yysf.com/
 local=/52yyxk.com/
 local=/52z.com/
@@ -9303,7 +9304,6 @@ local=/jc001.cn/
 local=/jc35.com/
 local=/jccgty.cn/
 local=/jcchunya.cn/
-local=/jccontainer.cn/
 local=/vs.wshareit.com.b.galileo.jcloud-cdn.com/
 local=/jcloud.com/
 local=/jcloudcs.com/
@@ -12193,6 +12193,7 @@ local=/niohome.com/
 local=/niparts.com/
 local=/nipei.com/
 local=/nipic.cn/
+local=/down.nishuoa.com/
 local=/nisihu.com.cn/
 local=/nithisp.cn/
 local=/niu.com/
@@ -12318,6 +12319,7 @@ local=/nseac.com/
 local=/marketing.nsfocus.com/
 local=/nsheg.com/
 local=/nshvhfw.cn/
+local=/m.nslkptv.cn/
 local=/nsnmiaomu.cn/
 local=/nsns.in/
 local=/nsxtob.cn/
@@ -19593,6 +19595,7 @@ local=/zoossoft.cn/
 local=/zoossoft.net/
 local=/zoukao.com/
 local=/zowralr.cn/
+local=/m.zowvins.cn/
 local=/zp22.cn/
 local=/zpinypr.cn/
 local=/zplay.cn/

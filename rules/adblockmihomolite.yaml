@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20250703003625
-  # Last modified: 2025/07/03 00:36:25
-  # Blocked domains: 19747
+  # Version: 20250703101249
+  # Last modified: 2025/07/03 10:12:49
+  # Blocked domains: 19750
   #
   - '+.0001.best'
   - '+.000283.cn'
@@ -1071,6 +1071,7 @@ payload:
   - '+.52tt.com'
   - '+.52xiyou.com'
   - '+.52xnjd.com'
+  - '+.api.52youtu.com'
   - '+.52yysf.com'
   - '+.52yyxk.com'
   - '+.52z.com'
@@ -9304,7 +9305,6 @@ payload:
   - '+.jc35.com'
   - '+.jccgty.cn'
   - '+.jcchunya.cn'
-  - '+.jccontainer.cn'
   - '+.vs.wshareit.com.b.galileo.jcloud-cdn.com'
   - '+.jcloud.com'
   - '+.jcloudcs.com'
@@ -12194,6 +12194,7 @@ payload:
   - '+.niparts.com'
   - '+.nipei.com'
   - '+.nipic.cn'
+  - '+.down.nishuoa.com'
   - '+.nisihu.com.cn'
   - '+.nithisp.cn'
   - '+.niu.com'
@@ -12319,6 +12320,7 @@ payload:
   - '+.marketing.nsfocus.com'
   - '+.nsheg.com'
   - '+.nshvhfw.cn'
+  - '+.m.nslkptv.cn'
   - '+.nsnmiaomu.cn'
   - '+.nsns.in'
   - '+.nsxtob.cn'
@@ -19594,6 +19596,7 @@ payload:
   - '+.zoossoft.net'
   - '+.zoukao.com'
   - '+.zowralr.cn'
+  - '+.m.zowvins.cn'
   - '+.zp22.cn'
   - '+.zpinypr.cn'
   - '+.zplay.cn'

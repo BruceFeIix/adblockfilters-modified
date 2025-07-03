@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/03 00:36:25
-#!support=19747
+#!date=2025/07/03 10:12:49
+#!support=19750
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0001.best
@@ -1074,6 +1074,7 @@ DOMAIN-SUFFIX,adm.52swine.com
 DOMAIN-SUFFIX,52tt.com
 DOMAIN-SUFFIX,52xiyou.com
 DOMAIN-SUFFIX,52xnjd.com
+DOMAIN-SUFFIX,api.52youtu.com
 DOMAIN-SUFFIX,52yysf.com
 DOMAIN-SUFFIX,52yyxk.com
 DOMAIN-SUFFIX,52z.com
@@ -9307,7 +9308,6 @@ DOMAIN-SUFFIX,jc001.cn
 DOMAIN-SUFFIX,jc35.com
 DOMAIN-SUFFIX,jccgty.cn
 DOMAIN-SUFFIX,jcchunya.cn
-DOMAIN-SUFFIX,jccontainer.cn
 DOMAIN-SUFFIX,vs.wshareit.com.b.galileo.jcloud-cdn.com
 DOMAIN-SUFFIX,jcloud.com
 DOMAIN-SUFFIX,jcloudcs.com
@@ -12197,6 +12197,7 @@ DOMAIN-SUFFIX,niohome.com
 DOMAIN-SUFFIX,niparts.com
 DOMAIN-SUFFIX,nipei.com
 DOMAIN-SUFFIX,nipic.cn
+DOMAIN-SUFFIX,down.nishuoa.com
 DOMAIN-SUFFIX,nisihu.com.cn
 DOMAIN-SUFFIX,nithisp.cn
 DOMAIN-SUFFIX,niu.com
@@ -12322,6 +12323,7 @@ DOMAIN-SUFFIX,nseac.com
 DOMAIN-SUFFIX,marketing.nsfocus.com
 DOMAIN-SUFFIX,nsheg.com
 DOMAIN-SUFFIX,nshvhfw.cn
+DOMAIN-SUFFIX,m.nslkptv.cn
 DOMAIN-SUFFIX,nsnmiaomu.cn
 DOMAIN-SUFFIX,nsns.in
 DOMAIN-SUFFIX,nsxtob.cn
@@ -19597,6 +19599,7 @@ DOMAIN-SUFFIX,zoossoft.cn
 DOMAIN-SUFFIX,zoossoft.net
 DOMAIN-SUFFIX,zoukao.com
 DOMAIN-SUFFIX,zowralr.cn
+DOMAIN-SUFFIX,m.zowvins.cn
 DOMAIN-SUFFIX,zp22.cn
 DOMAIN-SUFFIX,zpinypr.cn
 DOMAIN-SUFFIX,zplay.cn
