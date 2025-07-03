@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20250703163721
-! Last modified: 2025/07/03 16:37:21
-! Blocked Filters: 41640
+! Version: 20250703174417
+! Last modified: 2025/07/03 17:44:17
+! Blocked Filters: 41641
 !
 ###AC_ad
 ###AD_160
@@ -28737,7 +28737,6 @@ carsales.com.au,technobuffalo.com##.page-header
 carsguide.com.au,coinranking.com,tutorialrepublic.com,adz7short.space,short.croclix.me,milesplit.com,adz7short.space,forum.xda-developers.com,countle.com,picmix.com,pornsfw.com##.leaderboard
 cartoon18.com,pornbest.org,ptt.sex###links
 cartoonporn.com,babestube.com,deviants.com##.spot_panel
-cartoonporn24.com,camwhores.ru.com,cliphunter.com,wxx.wtf,jizzoncam.com,camwhores.video,moreamateurs.com,faptor.com,porndude.wtf,pornwex.tv,pornfd.com,area51.porn,pornrabbit.com,milf-porn.xxx,sextaped.com,pornxpert.com,perverttube.com,fapnow.xxx,epicgfs.com,scatkings.com,pornflix.to,xbjav.com,heavyfetish.com,tabootube.xxx,amateur8.com,maturetubehere.com,crazyporn.xxx,pornissimo.org,lesbian8.com,enf-cmnf.com,filtercams.com,bigassporn.tv,porn00.org,keekass.com,fuckit.cc,camwhoresbay.com,camwhoreshd.com##.block-video > div.table
 cartoonporno.xxx,69games.xxx,mirrorace.com,safirfilmizle1.com,mylink.vc#%#//scriptlet("abort-on-property-read", "initPu")
 cartoonpornvideos.com,youngpornvideos.com##.ads-mobile
 cat-a-cat.net,comando.to,seeeed.xyz,arabseed.*,crichd.*,mangadna.com,akwam.*,megafilmeshd50.com,prmovies.ph,uploadrar.com,go-stream.site,mp3juice.info,gogoplay.*,freemoviesfull.com,stape.fun,gomovies.*,xsanime.com,rodanesia.com,gnula.nu,filmovi.co,123movies2022.org,thenetnaija.co,extralinks.*,4anime.gg,mangalek.com,skidrowcodex.net,watchonlinemovies50.com.pk,viprow.*,strikeout.*,emule-island.eu,hdfilme.cx,zone-telechargement.*,123moviesc.*,pahe.ph,adshort.*,mlsbd.shop,appvn.com,yifysubtitles.vip,oploverz.*,jkanime.net,tamilfreemp3songs.com,ostreaming.tv,govid.cyou,watchseries.*,romshub.com,streamta.*,watchdoctorwhoonline.com,allinonedownloadzz.site,gdriveplayer.us,watchtheoffice.cc,watchcharmedonline.com,vidembed.*#%#//scriptlet("abort-current-inline-script", "Promise", "delete window")
@@ -30338,7 +30337,6 @@ fetishshrine.com,pornwhite.com,sleazyneasy.com##.container-aside
 fetishshrine.com,pornwhite.com,sleazyneasy.com##.items-holder
 fetishshrine.com,sleazyneasy.com##.bottom-container
 fetishshrine.com,vikiporn.com##.adv-aside
-fetishshrine.com,youfreeporntube.net##.nav > li > a[target="_blank"]
 feudalwars.net,shadowexplorer.com###skyscraper
 ffxiv.xin,fotor.com.cn,weiyun.com,youdao.com#@#.icon-share
 fh21.com.cn###lbzxM
@@ -31365,6 +31363,7 @@ home.firefoxchina.cn##a[track_key="sites_mingzhan"] + a[title="VIP"]
 home.ifeng.com##.fengjc02
 homebook.pl,abczdrowie.pl,autokult.pl,dobreprogramy.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,luxlux.pl,mixer.pl,money.pl,nocowanie.pl,o2.pl,open.fm,parenting.pl,pinger.pl,pogodnie.pl,pudelek.pl,samosia.pl,wp.pl#$#body { pointer-events: auto !important; }
 homebrewtalk.com,kitchenknifeforums.com,quadraphonicquad.com##.gb-sponsored-wrapper
+homemade.adult,analdin.com,xhand.net###lj-container
 hometheaterforum.com,orbz.io##div[style="width: 300px; height: 600px;"]
 homo.xxx,hello.porn##.btn-dvd
 homo.xxx,ok.porn,pornhat.*,okxxx3.com,okxxx2.com,okxxx1.com,ok.xxx,perfektdamen.*,perfectgirls.*,coralxxx.com,analry.com,hard3r.com,bigbigtits.com,maturexy.com,bigbumfun.com,fuqster.com,bigtitbitches.com,w1mp.com,riverporn.pro,sexpester.com,w4nkr.com,pornwhite.com,gaygo.tv,sextaped.com,ratedgross.com,sleazyneasy.com,litecoin-faucet.com,3prn.com,motherporno.com,pornomovies.com,camhub.tv,max.porn,feetporno.com,familyporn.tv,freehardcore.com,moviesand.com,momvids.com,hdzog.com,pornbimbo.com##.spot:not(#style_important)
@@ -34994,6 +34993,9 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 redtube.com,tube8.com,you-porn.com,youporn.com##.upgradeButtonContainer
 redtube.com,tube8.com,youporn.com##a[class*="gtm-event-header-paidtabs"]
 redwap.sex,3prn.com##iframe[src^="https://syndication.exosrv.com/"]
+refifa.com,techcentral.co.za,codingstella.com,mobilanyheter.net,how2electronics.com,webassistanceita.com,androidowy.pl,geekermag.com#$##detect-modal { display: none !important; }
+refifa.com,techcentral.co.za,codingstella.com,mobilanyheter.net,how2electronics.com,webassistanceita.com,androidowy.pl,geekermag.com#$#body { overflow: auto !important; }
+refifa.com,techcentral.co.za,codingstella.com,mobilanyheter.net,how2electronics.com,webassistanceita.com,androidowy.pl,geekermag.com#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'doTest')
 reflex.cz#@%#//scriptlet('ubo-acis.js', 'atob')
 rehabilitationrobotics.net,realpornclip.com,wdwnt.com,kill-the-hero.com,omnicoreagency.com,ipeenk.com###block-2
 renfei.net#$#.ant-modal-root { display: none !important; }
@@ -35264,6 +35266,7 @@ shemalez.*##.video-tube-friends + div[class]
 shemalez.*##iframe[src^="https://go.mnaspm.com/"]
 shemalez.tube,gettranny.com,pornzog.com,pornl.com,vxxx.com,ooxxx.com,inporn.com,vjav.com##.fah-btn
 shesfreaky.com,erome.com##.adn-posty__top
+sheshaft.com,fetishshrine.com,youfreeporntube.net##.nav > li > a[target="_blank"]
 sheshaft.com,sleazyneasy.com,wankoz.com##.content-aside
 sheshaft.com,tubewolf.com,zedporn.com,hellmoms.com,alphaporno.com,pornwhite.com,xcum.com,wankoz.com,sleazyneasy.com,katestube.com##.bottom-banners
 shinden.pl#$?#.ads { remove: true; }
@@ -35959,9 +35962,6 @@ techbloogs.com,tutwuri.id,lokerwfh.net#$##adblock-warning { display: none !impor
 techbloogs.com,tutwuri.id,lokerwfh.net#$#body { overflow: auto !important; }
 techbloogs.com,tutwuri.id,lokerwfh.net#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
 techbloogs.com,tutwuri.id,lokerwfh.net,dz4up.com##div[style="text-align: center;"] > a[target="_blank"] > img
-techcentral.co.za,codingstella.com,mobilanyheter.net,how2electronics.com,webassistanceita.com,androidowy.pl,geekermag.com#$##detect-modal { display: none !important; }
-techcentral.co.za,codingstella.com,mobilanyheter.net,how2electronics.com,webassistanceita.com,androidowy.pl,geekermag.com#$#body { overflow: auto !important; }
-techcentral.co.za,codingstella.com,mobilanyheter.net,how2electronics.com,webassistanceita.com,androidowy.pl,geekermag.com#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'doTest')
 techcracked.com,novelasesp.blogspot.com###HTML12
 techcyan.com$$script[wildcard="*constructor*DOMContentLoaded*0x"][min-length="2000"][max-length="5000"]
 techforu.in,newshuta.in##.generate-back-to-top + div[id][class*=" "]
@@ -36291,6 +36291,7 @@ transfermarkt.*###home-rectangle-spotlight
 transfermarkt.*#@#.AD-POST
 transfermarkt.co.uk,transfermarkt.com##.werbung-skyscraper-container
 transtxxx.com,shemalez.*,gaytxxx.com,thegay.com,thegay.tube,hdzog.com,vjav.*,hotmovs.*,privatehomeclips.com,txxxporn.tube,txxx.*##div[style="display:flex !important"] > div
+transvids.tv,cartoonporn24.com,camwhores.ru.com,cliphunter.com,wxx.wtf,jizzoncam.com,camwhores.video,moreamateurs.com,faptor.com,porndude.wtf,pornwex.tv,pornfd.com,area51.porn,pornrabbit.com,milf-porn.xxx,sextaped.com,pornxpert.com,perverttube.com,fapnow.xxx,epicgfs.com,scatkings.com,pornflix.to,xbjav.com,heavyfetish.com,tabootube.xxx,amateur8.com,maturetubehere.com,crazyporn.xxx,pornissimo.org,lesbian8.com,enf-cmnf.com,filtercams.com,bigassporn.tv,porn00.org,keekass.com,fuckit.cc,camwhoresbay.com,camwhoreshd.com##.block-video > div.table
 travelironguide.com,kreditexperte.online,goo.st#$##leaderboard.ad { display: block !important; }
 travelironguide.com,kreditexperte.online,goo.st#$#body .ad.ads.adsbox.doubleclick.ad-placement.ad-placeholder.adbadge.BannerAd:not(#style_important) { display: block !important; }
 travelironguide.com,kreditexperte.online,goo.st#%#//scriptlet('set-constant', 'adblockstatus', 'false')

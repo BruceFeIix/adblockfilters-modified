@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9Jr+y9amnlJqRlPiKRwoKQ
-! Version: 202507030821
+! Checksum: 9lfbTRKLhtD9wiFsHDCLYA
+! Version: 202507030931
 ! Title: EasyList
-! Last modified: 03 Jul 2025 08:21 UTC
+! Last modified: 03 Jul 2025 09:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22548,6 +22548,7 @@ browsershots.org#@#.advert_area
 ||dchqgrxioyyfmbk.com^
 ||dcjrrglrieycgj.com^
 ||dcmdquudzpmkc.store^
+||dcmyatony.shop^
 ||dcnitavyfthvykx.com^
 ||dcoranepgn.com^
 ||dcssptrack.com^
@@ -28894,6 +28895,7 @@ browsershots.org#@#.advert_area
 ||jpltclbrnyefiij.com^
 ||jpmkbcgx-o.buzz^
 ||jpmpwwmtw.com^
+||jpojrkwzofpxn.space^
 ||jpooavwizlvf.com^
 ||jptobfdvxtady.online^
 ||jqbwkzmboonv.top^
@@ -29587,6 +29589,7 @@ browsershots.org#@#.advert_area
 ||kqesuetg.com^
 ||kqhgjmap.com^
 ||kqhi97lf.de^
+||kqiuernncywj.xyz^
 ||kqmmlqbuwmksm.store^
 ||kqntarwfonstf.online^
 ||kqzyfj.com^
@@ -30267,6 +30270,7 @@ browsershots.org#@#.advert_area
 ||ljdzjtpnijpns.space^
 ||ljfrwpidsewus.store^
 ||ljgvbbkzykzvz.top^
+||ljhdcdian.com^
 ||ljisbcyw.com^
 ||ljnulatbntogvd.com^
 ||ljoaqeqwbkeqk.top^
@@ -30563,6 +30567,7 @@ browsershots.org#@#.advert_area
 ||lqzoyqvbjkzqm.top^
 ||lr-in.com^
 ||lrecfjekpxcgq.today^
+||lrhffbdwkplxf.website^
 ||lrhyuixtcgnpn.site^
 ||lrkfuheobm.one^
 ||lrlodahrafsxi.store^
