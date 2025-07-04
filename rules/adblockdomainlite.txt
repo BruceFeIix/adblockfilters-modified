@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250704002917
-! Last modified: 2025/07/04 00:29:17
-! Blocked domains: 19759
+! Version: 20250704094704
+! Last modified: 2025/07/04 09:47:04
+! Blocked domains: 19757
 !
 0001.best
 000283.cn
@@ -129,7 +129,6 @@ sdc.10086.cn
 101.35.95.220
 101.37.236.20
 101.37.34.164
-101.43.2.116
 101.43.49.183
 10100.com
 10101111.com
@@ -153,6 +152,7 @@ soft.110route.com
 112.33.27.73
 oss-asq-static.11222.cn
 113.31.111.76
+113.45.4.235
 113.98.201.248
 11315.com
 1133.cc
@@ -178,7 +178,6 @@ appversion.115.com
 117.72.70.169
 117trip.com
 118.178.133.241
-118.195.189.82
 118.25.148.58
 118.26.174.163
 1183.cn
@@ -204,7 +203,6 @@ x.120ask.com
 bdfl.120askimages.com
 bdjs.120askimages.com
 bdlm.120askimages.com
-121.36.93.103
 121.40.202.70
 121.43.104.75
 12291.com
@@ -261,12 +259,10 @@ pg-ad-b1.nosdn.127.net
 wanproxy.127.net
 yt-adp.nosdn.127.net
 127z.com
-129.204.146.115
 12i.cn
 12tiku.com
 130w.cn
 1314gl.com
-132.232.166.80
 133.cn
 133u.com
 135309.com
@@ -413,6 +409,7 @@ vstlog.17usoft.com
 sentry.17zjh.com
 17zzz.cn
 18.cn
+180.76.244.133
 1816soso.com
 eezdx.erc.18183.com
 img1.18183.com
@@ -499,6 +496,7 @@ wm.20150.net
 2144.cn
 2144.com
 218.108.181.2
+218.22.21.248
 218.93.208.24
 218t.cn
 ad.21cn.com
@@ -794,7 +792,6 @@ m.38xs.com
 39.103.217.92
 39.103.58.78
 39.104.73.194
-39.105.31.193
 39.99.235.220
 abody.39.net
 app-g.39.net
@@ -866,6 +863,7 @@ m.408uo.cn
 41ku.cn
 420909.cn
 426g.com
+43.138.193.228
 43.139.185.214
 43.139.207.11
 43.226.39.44
@@ -879,14 +877,15 @@ stat.api.4399.com
 47.103.36.44
 47.104.169.91
 47.104.173.216
+47.108.39.159
 47.109.77.84
 47.119.34.138
 47.120.13.85
 47.120.46.210
 47.120.61.164
 47.122.20.70
-47.92.144.57
 47.92.246.30
+47.96.13.97
 47.98.224.91
 m.479db.cn
 p2link.483n.com
@@ -1386,11 +1385,11 @@ count.7m.com.cn
 7ywl.com
 8.131.63.6
 8.134.199.119
+8.137.114.210
 8.138.182.17
 8.138.33.224
 8.140.239.162
 8.141.166.236
-8.148.20.113
 8.148.224.96
 8020home.com.cn
 805m.com
@@ -15430,7 +15429,6 @@ c.taiquandao1.cn
 v.taiquandao1.cn
 glores2.taisantech.com
 sanme2.taisantech.com
-taixingindustry.cn
 taixueshu.com
 taiyangnengchukou.cn
 tajdad.cn
