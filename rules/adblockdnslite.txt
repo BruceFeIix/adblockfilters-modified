@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250705002720
-! Last modified: 2025/07/05 00:27:20
-! Blocked domains: 19974
+! Version: 20250705094309
+! Last modified: 2025/07/05 09:43:09
+! Blocked domains: 19975
 ! unBlocked domains: 51
 !
 ||0001.best^
@@ -96,6 +96,8 @@
 ||m.0uk9e.cn^
 ||0x5.me^
 ||1-bmo-client-login.com^
+||1.94.183.238^
+||1.94.243.114^
 ||1.94.41.160^
 ||10000link.com^
 ||10000xing.cn^
@@ -139,6 +141,7 @@
 ||1010pic.com^
 ||102jilipark.com^
 ||106.14.68.26^
+||106.15.224.147^
 ||107788.com^
 ||adm.10jqka.com.cn^
 ||bbsclick.10jqka.com.cn^
@@ -146,6 +149,7 @@
 ||vaserviece.10jqka.com.cn^
 ||10raw.com^
 ||10yan.com^
+||110.40.185.107^
 ||110.com^
 ||110ask.com^
 ||v.110route.cn^
@@ -158,6 +162,7 @@
 ||oss-asq-static.11222.cn^
 ||113.31.111.76^
 ||113.45.148.46^
+||113.45.4.235^
 ||113.98.201.248^
 ||11315.com^
 ||1133.cc^
@@ -171,17 +176,16 @@
 ||114piaowu.com^
 ||114study.com^
 ||115.159.149.113^
-||115.55.201.237^
 ||appversion.115.com^
 ||1156.com^
 ||1156.net^
 ||116.171.106.3^
 ||117.157.17.194^
-||117.50.178.197^
 ||117.50.194.20^
 ||117.72.36.133^
 ||117.72.70.169^
 ||117trip.com^
+||118.178.133.241^
 ||118.26.174.163^
 ||1183.cn^
 ||1188.com^
@@ -189,7 +193,6 @@
 ||118ex.cn^
 ||bj1.118pan.com^
 ||119.45.29.172^
-||119.91.203.199^
 ||119.news^
 ||11h5.com^
 ||11tea.com^
@@ -281,7 +284,6 @@
 ||138job.com^
 ||139.159.155.204^
 ||139.198.15.223^
-||139.9.129.103^
 ||ad.mcloud.139.com^
 ||1391.com^
 ||139130.com^
@@ -420,7 +422,6 @@
 ||sentry.17zjh.com^
 ||17zzz.cn^
 ||18.cn^
-||180.76.244.133^
 ||1816soso.com^
 ||eezdx.erc.18183.com^
 ||img1.18183.com^
@@ -878,7 +879,8 @@
 ||41ku.cn^
 ||420909.cn^
 ||426g.com^
-||43.139.207.11^
+||43.138.193.228^
+||43.139.185.214^
 ||43.226.39.44^
 ||stat.api.4399.com^
 ||4399sy.com^
@@ -889,16 +891,15 @@
 ||47.102.209.177^
 ||47.104.169.91^
 ||47.104.173.216^
+||47.108.39.159^
 ||47.109.48.57^
 ||47.109.77.84^
 ||47.109.93.252^
 ||47.119.34.138^
 ||47.120.13.85^
 ||47.120.46.210^
-||47.120.61.164^
+||47.122.20.70^
 ||47.92.246.30^
-||47.93.28.103^
-||47.96.13.97^
 ||47.98.224.91^
 ||m.479db.cn^
 ||p2link.483n.com^
@@ -1178,6 +1179,7 @@
 ||m.58xs.tw^
 ||58xwz.cn^
 ||58zhuangxiu.cn^
+||59.110.92.49^
 ||592skins.com^
 ||595image.com^
 ||597.com^
@@ -1396,13 +1398,13 @@
 ||7yan.net^
 ||7ywl.com^
 ||8.131.63.6^
-||8.134.156.248^
 ||8.134.199.119^
 ||8.134.80.60^
 ||8.137.114.210^
 ||8.138.182.17^
 ||8.138.33.224^
 ||8.140.239.162^
+||8.141.166.236^
 ||8.148.224.96^
 ||8020home.com.cn^
 ||805m.com^
@@ -14991,7 +14993,6 @@
 ||c.skwenq.cn^
 ||v.skwenq.cn^
 ||skwxwh.com^
-||download.skycn.com^
 ||skycut.cn^
 ||skydimo.com^
 ||skyjh.cn^

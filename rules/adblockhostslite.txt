@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250705002720
-# Last modified: 2025/07/05 00:27:20
-# Blocked domains: 19974
+# Version: 20250705094309
+# Last modified: 2025/07/05 09:43:09
+# Blocked domains: 19975
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -110,6 +110,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.0uk9e.cn
 0.0.0.0	0x5.me
 0.0.0.0	1-bmo-client-login.com
+0.0.0.0	1.94.183.238
+0.0.0.0	1.94.243.114
 0.0.0.0	1.94.41.160
 0.0.0.0	10000link.com
 0.0.0.0	10000xing.cn
@@ -153,6 +155,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	1010pic.com
 0.0.0.0	102jilipark.com
 0.0.0.0	106.14.68.26
+0.0.0.0	106.15.224.147
 0.0.0.0	107788.com
 0.0.0.0	adm.10jqka.com.cn
 0.0.0.0	bbsclick.10jqka.com.cn
@@ -160,6 +163,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	vaserviece.10jqka.com.cn
 0.0.0.0	10raw.com
 0.0.0.0	10yan.com
+0.0.0.0	110.40.185.107
 0.0.0.0	110.com
 0.0.0.0	110ask.com
 0.0.0.0	v.110route.cn
@@ -172,6 +176,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	oss-asq-static.11222.cn
 0.0.0.0	113.31.111.76
 0.0.0.0	113.45.148.46
+0.0.0.0	113.45.4.235
 0.0.0.0	113.98.201.248
 0.0.0.0	11315.com
 0.0.0.0	1133.cc
@@ -185,17 +190,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	114piaowu.com
 0.0.0.0	114study.com
 0.0.0.0	115.159.149.113
-0.0.0.0	115.55.201.237
 0.0.0.0	appversion.115.com
 0.0.0.0	1156.com
 0.0.0.0	1156.net
 0.0.0.0	116.171.106.3
 0.0.0.0	117.157.17.194
-0.0.0.0	117.50.178.197
 0.0.0.0	117.50.194.20
 0.0.0.0	117.72.36.133
 0.0.0.0	117.72.70.169
 0.0.0.0	117trip.com
+0.0.0.0	118.178.133.241
 0.0.0.0	118.26.174.163
 0.0.0.0	1183.cn
 0.0.0.0	1188.com
@@ -203,7 +207,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	118ex.cn
 0.0.0.0	bj1.118pan.com
 0.0.0.0	119.45.29.172
-0.0.0.0	119.91.203.199
 0.0.0.0	119.news
 0.0.0.0	11h5.com
 0.0.0.0	11tea.com
@@ -295,7 +298,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	138job.com
 0.0.0.0	139.159.155.204
 0.0.0.0	139.198.15.223
-0.0.0.0	139.9.129.103
 0.0.0.0	ad.mcloud.139.com
 0.0.0.0	1391.com
 0.0.0.0	139130.com
@@ -434,7 +436,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sentry.17zjh.com
 0.0.0.0	17zzz.cn
 0.0.0.0	18.cn
-0.0.0.0	180.76.244.133
 0.0.0.0	1816soso.com
 0.0.0.0	eezdx.erc.18183.com
 0.0.0.0	img1.18183.com
@@ -892,7 +893,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	41ku.cn
 0.0.0.0	420909.cn
 0.0.0.0	426g.com
-0.0.0.0	43.139.207.11
+0.0.0.0	43.138.193.228
+0.0.0.0	43.139.185.214
 0.0.0.0	43.226.39.44
 0.0.0.0	stat.api.4399.com
 0.0.0.0	4399sy.com
@@ -903,16 +905,15 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.102.209.177
 0.0.0.0	47.104.169.91
 0.0.0.0	47.104.173.216
+0.0.0.0	47.108.39.159
 0.0.0.0	47.109.48.57
 0.0.0.0	47.109.77.84
 0.0.0.0	47.109.93.252
 0.0.0.0	47.119.34.138
 0.0.0.0	47.120.13.85
 0.0.0.0	47.120.46.210
-0.0.0.0	47.120.61.164
+0.0.0.0	47.122.20.70
 0.0.0.0	47.92.246.30
-0.0.0.0	47.93.28.103
-0.0.0.0	47.96.13.97
 0.0.0.0	47.98.224.91
 0.0.0.0	m.479db.cn
 0.0.0.0	p2link.483n.com
@@ -1192,6 +1193,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.58xs.tw
 0.0.0.0	58xwz.cn
 0.0.0.0	58zhuangxiu.cn
+0.0.0.0	59.110.92.49
 0.0.0.0	592skins.com
 0.0.0.0	595image.com
 0.0.0.0	597.com
@@ -1410,13 +1412,13 @@ ff02::3	ip6-allhosts
 0.0.0.0	7yan.net
 0.0.0.0	7ywl.com
 0.0.0.0	8.131.63.6
-0.0.0.0	8.134.156.248
 0.0.0.0	8.134.199.119
 0.0.0.0	8.134.80.60
 0.0.0.0	8.137.114.210
 0.0.0.0	8.138.182.17
 0.0.0.0	8.138.33.224
 0.0.0.0	8.140.239.162
+0.0.0.0	8.141.166.236
 0.0.0.0	8.148.224.96
 0.0.0.0	8020home.com.cn
 0.0.0.0	805m.com
@@ -15005,7 +15007,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	c.skwenq.cn
 0.0.0.0	v.skwenq.cn
 0.0.0.0	skwxwh.com
-0.0.0.0	download.skycn.com
 0.0.0.0	skycut.cn
 0.0.0.0	skydimo.com
 0.0.0.0	skyjh.cn
