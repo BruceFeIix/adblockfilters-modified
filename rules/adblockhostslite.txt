@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250705162749
-# Last modified: 2025/07/05 16:27:49
-# Blocked domains: 20380
+# Version: 20250706002532
+# Last modified: 2025/07/06 00:25:32
+# Blocked domains: 20333
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -86,7 +86,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0757fc.com
 0.0.0.0	0757kd.cn
 0.0.0.0	0772fang.com
-0.0.0.0	078bd.cn
 0.0.0.0	0792jia.cn
 0.0.0.0	0797fdc.com.cn
 0.0.0.0	080999.cn
@@ -116,8 +115,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0x5.me
 0.0.0.0	1-bmo-client-login.com
 0.0.0.0	1.94.183.238
-0.0.0.0	1.94.243.114
-0.0.0.0	1.94.41.160
 0.0.0.0	10000link.com
 0.0.0.0	10000xing.cn
 0.0.0.0	1000hua.com
@@ -156,7 +153,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.35.228.105
 0.0.0.0	101.37.236.20
 0.0.0.0	101.37.34.164
-0.0.0.0	101.42.13.105
 0.0.0.0	101.43.49.183
 0.0.0.0	10100.com
 0.0.0.0	10101111.com
@@ -171,19 +167,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	vaserviece.10jqka.com.cn
 0.0.0.0	10raw.com
 0.0.0.0	10yan.com
-0.0.0.0	110.40.185.107
 0.0.0.0	110.com
 0.0.0.0	110ask.com
 0.0.0.0	v.110route.cn
 0.0.0.0	ytx-file.110route.cn
 0.0.0.0	soft.110route.com
-0.0.0.0	111.229.123.235
 0.0.0.0	1.11130.com.cn
 0.0.0.0	11185.cn
 0.0.0.0	112.33.27.73
 0.0.0.0	oss-asq-static.11222.cn
 0.0.0.0	113.31.111.76
-0.0.0.0	113.45.148.46
 0.0.0.0	113.45.4.235
 0.0.0.0	113.98.201.248
 0.0.0.0	11315.com
@@ -199,8 +192,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	114study.com
 0.0.0.0	115.159.149.113
 0.0.0.0	115.238.252.51
-0.0.0.0	115.55.220.200
-0.0.0.0	115.58.83.194
 0.0.0.0	appversion.115.com
 0.0.0.0	1156.com
 0.0.0.0	1156.net
@@ -218,14 +209,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	11888vip.cn
 0.0.0.0	118ex.cn
 0.0.0.0	bj1.118pan.com
-0.0.0.0	119.45.29.172
 0.0.0.0	119.news
 0.0.0.0	11h5.com
 0.0.0.0	11tea.com
-0.0.0.0	120.24.64.74
 0.0.0.0	120.25.163.165
 0.0.0.0	120.27.20.98
-0.0.0.0	120.27.235.78
 0.0.0.0	120.46.212.33
 0.0.0.0	120.77.253.240
 0.0.0.0	120.net
@@ -245,8 +233,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	122cha.com
 0.0.0.0	123.57.166.174
 0.0.0.0	123.57.250.154
-0.0.0.0	123.60.219.97
-0.0.0.0	123.60.83.46
 0.0.0.0	ad.12306.cn
 0.0.0.0	12317wan.com
 0.0.0.0	12322app.com
@@ -559,7 +545,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	21voa.com
 0.0.0.0	21xinyong.com
 0.0.0.0	21xueshu.com
-0.0.0.0	222.187.223.34
 0.0.0.0	22222212.cn
 0.0.0.0	222aa333bb.com
 0.0.0.0	224600.com
@@ -843,7 +828,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	39.103.217.92
 0.0.0.0	39.103.58.78
 0.0.0.0	39.104.73.194
-0.0.0.0	39.105.211.255
 0.0.0.0	39.105.31.193
 0.0.0.0	39.107.242.125
 0.0.0.0	39.99.235.220
@@ -915,32 +899,24 @@ ff02::3	ip6-allhosts
 0.0.0.0	42.230.48.186
 0.0.0.0	426g.com
 0.0.0.0	42f54887.cn
-0.0.0.0	43.139.185.214
-0.0.0.0	43.139.228.20
 0.0.0.0	43.143.123.40
 0.0.0.0	43.226.39.44
 0.0.0.0	stat.api.4399.com
 0.0.0.0	4399sy.com
 0.0.0.0	43gw.cn
 0.0.0.0	45fan.com
-0.0.0.0	47.101.187.219
 0.0.0.0	47.101.206.165
 0.0.0.0	47.102.209.177
 0.0.0.0	47.104.169.91
 0.0.0.0	47.104.173.216
 0.0.0.0	47.108.39.159
 0.0.0.0	47.109.201.173
-0.0.0.0	47.109.48.57
 0.0.0.0	47.109.77.84
 0.0.0.0	47.109.93.252
 0.0.0.0	47.116.197.65
 0.0.0.0	47.119.34.138
-0.0.0.0	47.120.13.85
 0.0.0.0	47.120.46.210
-0.0.0.0	47.121.24.204
-0.0.0.0	47.122.20.70
 0.0.0.0	47.92.246.30
-0.0.0.0	47.95.31.143
 0.0.0.0	47.98.151.171
 0.0.0.0	47.98.224.91
 0.0.0.0	m.479db.cn
@@ -1289,7 +1265,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	simba.6.cn
 0.0.0.0	union.6.cn
 0.0.0.0	60.166.36.5
-0.0.0.0	60.204.169.16
 0.0.0.0	60.22.23.50
 0.0.0.0	60608787.com
 0.0.0.0	607.tv
@@ -1460,15 +1435,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	7ywl.com
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.199.119
-0.0.0.0	8.134.80.60
-0.0.0.0	8.137.114.210
 0.0.0.0	8.138.182.17
 0.0.0.0	8.138.33.224
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.166.236
-0.0.0.0	8.148.224.96
-0.0.0.0	8.153.97.202
-0.0.0.0	8.154.18.17
 0.0.0.0	8020home.com.cn
 0.0.0.0	805m.com
 0.0.0.0	8080i.com
@@ -1491,7 +1461,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	818tl.com
 0.0.0.0	81art.com
 0.0.0.0	81zw.com
-0.0.0.0	82.156.190.69
 0.0.0.0	82012.com
 0.0.0.0	82ky.com
 0.0.0.0	8315.cn
@@ -1763,7 +1732,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a7x9m.top
 0.0.0.0	a9377j.com
 0.0.0.0	a963.com
-0.0.0.0	a9b2c.top
 0.0.0.0	a9v8.cn
 0.0.0.0	api.aa1.cn
 0.0.0.0	aaagame.com
@@ -3220,7 +3188,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	l16-dev-all-sentry-ghost-sgp.bilibiligame.net.a.bdydns.com
 0.0.0.0	l16-dev-all-sentry-ghost-sgp.bilibiligame.net.g0.bdydns.com
 0.0.0.0	p5-ad.adukwai.com.a.bdydns.com
-0.0.0.0	bdzfzp.cn
 0.0.0.0	bdzui.com
 0.0.0.0	yahoo1.beareyes.com.cn
 0.0.0.0	smetrics.beatsbydre.com
@@ -3900,7 +3867,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	c360dn.com
 0.0.0.0	c3x.me
 0.0.0.0	c4uy.icu
-0.0.0.0	c8l0y.top
 0.0.0.0	ca88b.cn
 0.0.0.0	caai.cn
 0.0.0.0	caas.cn
@@ -5331,7 +5297,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dangongshijie.com
 0.0.0.0	danji100.com
 0.0.0.0	danjuanfunds.com
-0.0.0.0	wap.dankebaby.cn
 0.0.0.0	danzhao1.cn
 0.0.0.0	danzhaowang.com
 0.0.0.0	daocloud.io
@@ -6317,7 +6282,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eddong.com
 0.0.0.0	dns.edgeone.app
 0.0.0.0	sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
-0.0.0.0	yfutdrxercyvb-cd280pjwm9.edgeone.app
 0.0.0.0	edgeone.site
 0.0.0.0	edimob.com
 0.0.0.0	editage.cn
@@ -6504,7 +6468,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	etoolads.cn
 0.0.0.0	etoote.com
 0.0.0.0	etouch.cn
-0.0.0.0	etqnnq.club
 0.0.0.0	etrack05.com
 0.0.0.0	etrack07.com
 0.0.0.0	etui8.cn
@@ -6580,7 +6543,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	f5cs.com
 0.0.0.0	g.f5gh.com
 0.0.0.0	f5zv2.icu
-0.0.0.0	f6d1z.top
 0.0.0.0	f9clubvip10.com
 0.0.0.0	f9clubvip13.com
 0.0.0.0	fabang.com
@@ -7946,7 +7908,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	h5sys.cn
 0.0.0.0	h6295.com
 0.0.0.0	h8w.cn
-0.0.0.0	h9s3a.top
 0.0.0.0	ha97.com
 0.0.0.0	habrion.cn
 0.0.0.0	images.newsletter.hach.com.cn
@@ -9594,7 +9555,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	j.cn
 0.0.0.0	ee.j06kc.cn
 0.0.0.0	m.j06kc.cn
-0.0.0.0	j2n6v.top
 0.0.0.0	ee.j5s9b.cn
 0.0.0.0	m.j5s9b.cn
 0.0.0.0	j6zh4g0.cn
@@ -10163,7 +10123,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.jzvog.cn
 0.0.0.0	jzyx.com
 0.0.0.0	k-dyn.com
-0.0.0.0	k0p3x.top
 0.0.0.0	k12zx.com
 0.0.0.0	k1u.com
 0.0.0.0	m.k2d98mi.cn
@@ -11037,7 +10996,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	level8cases.com
 0.0.0.0	levelinfinite.com
 0.0.0.0	lewei50.com
-0.0.0.0	lewztol.cn
 0.0.0.0	lexar.com
 0.0.0.0	image-pub.lexiang-asset.com
 0.0.0.0	lexiangla.com
@@ -11403,7 +11361,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vodlog.m1905.com
 0.0.0.0	m19ud.cn
 0.0.0.0	m.m216j.cn
-0.0.0.0	m3x7d.top
 0.0.0.0	p.m5bn.com
 0.0.0.0	m77s.cn
 0.0.0.0	e.m8l0ka.cn
@@ -13584,7 +13541,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pwjhg.com
 0.0.0.0	pwqft.cn
 0.0.0.0	pwsannong.com
-0.0.0.0	pwsnb.cn
 0.0.0.0	pxgth.cn
 0.0.0.0	pxhuiben.com
 0.0.0.0	pxmcl.cn
@@ -15936,7 +15892,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	t3go.cn
 0.0.0.0	t4game.com
 0.0.0.0	t4m.cn
-0.0.0.0	t7u5b.top
 0.0.0.0	taboola.com.cn
 0.0.0.0	tabxexplorer.com
 0.0.0.0	log.tadu.com
@@ -17553,7 +17508,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	w286.com
 0.0.0.0	w3t.cn
 0.0.0.0	w4pma.cn
-0.0.0.0	w4q1e.top
 0.0.0.0	w59g.icu
 0.0.0.0	m.w720p.cn
 0.0.0.0	w8.com.cn
@@ -19713,7 +19667,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	z2rb.cn
 0.0.0.0	z3zex.icu
 0.0.0.0	z574.com
-0.0.0.0	z5r8k.top
 0.0.0.0	m.z83rj.cn
 0.0.0.0	z8o.cn
 0.0.0.0	z9k7.icu
