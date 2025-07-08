@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250708163106
-# Last modified: 2025/07/08 16:31:06
-# Blocked domains: 21056
+# Version: 20250709003022
+# Last modified: 2025/07/09 00:30:22
+# Blocked domains: 21021
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -61,7 +61,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0voice.com
 0.0.0.0	0x5.me
 0.0.0.0	1.92.153.104
-0.0.0.0	1.94.183.238
 0.0.0.0	10000xing.cn
 0.0.0.0	1000n.cn
 0.0.0.0	1000pay.cn
@@ -82,11 +81,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.126.11.168
 0.0.0.0	101.201.227.94
 0.0.0.0	101.201.49.60
-0.0.0.0	101.226.8.163
 0.0.0.0	101.35.228.105
 0.0.0.0	101.37.34.164
-0.0.0.0	101.42.13.105
-0.0.0.0	101.42.239.131
 0.0.0.0	101.43.27.138
 0.0.0.0	101.43.49.183
 0.0.0.0	101.43.94.35
@@ -98,7 +94,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vaserviece.10jqka.com.cn
 0.0.0.0	10tqe.com
 0.0.0.0	10yan.com
-0.0.0.0	110.40.185.107
 0.0.0.0	110.com
 0.0.0.0	110ask.com
 0.0.0.0	v.110route.cn
@@ -121,18 +116,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	115.159.149.113
 0.0.0.0	115.159.71.204
 0.0.0.0	115.238.252.51
-0.0.0.0	115.55.198.232
 0.0.0.0	115.55.216.205
 0.0.0.0	appversion.115.com
 0.0.0.0	116.171.106.3
-0.0.0.0	116.205.242.143
 0.0.0.0	117.157.17.194
 0.0.0.0	117.50.194.20
 0.0.0.0	117.72.36.133
 0.0.0.0	117.72.70.169
 0.0.0.0	118.178.133.241
-0.0.0.0	118.178.235.206
-0.0.0.0	118.195.189.82
 0.0.0.0	118.26.174.163
 0.0.0.0	118.89.58.108
 0.0.0.0	1188.com
@@ -162,8 +153,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	122cha.com
 0.0.0.0	123.57.166.174
 0.0.0.0	123.57.250.154
-0.0.0.0	123.60.219.97
-0.0.0.0	123.60.83.46
 0.0.0.0	ad.12306.cn
 0.0.0.0	12317wan.com
 0.0.0.0	12322app.com
@@ -179,7 +168,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	123u.com
 0.0.0.0	123wenmi.com
 0.0.0.0	124.220.235.28
-0.0.0.0	124.222.129.148
 0.0.0.0	124xz.com
 0.0.0.0	admusicpic.music.126.net
 0.0.0.0	ads.music.126.net
@@ -214,9 +202,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	1357902.cn
 0.0.0.0	1377.com
 0.0.0.0	138job.com
-0.0.0.0	139.159.138.76
 0.0.0.0	139.159.155.204
-0.0.0.0	139.196.237.171
 0.0.0.0	139.198.15.223
 0.0.0.0	ad.mcloud.139.com
 0.0.0.0	1391.com
@@ -348,12 +334,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	17zheng.cn
 0.0.0.0	17zzz.cn
 0.0.0.0	18.cn
-0.0.0.0	180.76.244.133
 0.0.0.0	1816soso.com
 0.0.0.0	eezdx.erc.18183.com
 0.0.0.0	img1.18183.com
 0.0.0.0	zpe.klre.18183.com
-0.0.0.0	182.116.20.94
 0.0.0.0	182.127.127.108
 0.0.0.0	182.92.99.95
 0.0.0.0	182682.xyz
@@ -467,7 +451,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	21voa.com
 0.0.0.0	21xinyong.com
 0.0.0.0	21xueshu.com
-0.0.0.0	220.180.255.224
 0.0.0.0	222.187.223.34
 0.0.0.0	22222212.cn
 0.0.0.0	222aa333bb.com
@@ -761,7 +744,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	39.103.217.92
 0.0.0.0	39.103.58.78
 0.0.0.0	39.104.73.194
-0.0.0.0	39.105.211.255
 0.0.0.0	39.105.31.193
 0.0.0.0	39.99.235.220
 0.0.0.0	abody.39.net
@@ -839,12 +821,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	41grk.icu
 0.0.0.0	41ku.cn
 0.0.0.0	42.226.67.52
-0.0.0.0	42.226.90.137
 0.0.0.0	426g.com
 0.0.0.0	42how.com
-0.0.0.0	43.139.178.211
 0.0.0.0	43.139.207.11
-0.0.0.0	43.139.228.20
 0.0.0.0	43.143.123.40
 0.0.0.0	43.226.39.44
 0.0.0.0	stat.api.4399.com
@@ -868,10 +847,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.119.34.138
 0.0.0.0	47.120.32.72
 0.0.0.0	47.120.46.210
-0.0.0.0	47.121.24.204
 0.0.0.0	47.92.144.57
 0.0.0.0	47.92.246.30
-0.0.0.0	47.93.28.103
 0.0.0.0	47.95.31.143
 0.0.0.0	47.98.224.91
 0.0.0.0	471.cn
@@ -1066,7 +1043,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	52tt.com
 0.0.0.0	52xiyou.com
 0.0.0.0	52xnjd.com
-0.0.0.0	api.52youtu.com
 0.0.0.0	52yuer.cn
 0.0.0.0	52yysf.com
 0.0.0.0	52yyxk.com
@@ -1422,10 +1398,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.134.80.60
 0.0.0.0	8.138.182.17
 0.0.0.0	8.138.33.224
-0.0.0.0	8.138.47.245
-0.0.0.0	8.140.239.162
 0.0.0.0	8.148.20.113
-0.0.0.0	8.153.97.202
 0.0.0.0	8.154.18.17
 0.0.0.0	80065.cn
 0.0.0.0	800880.cn
@@ -6767,7 +6740,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics.ezbim.net
 0.0.0.0	orico-ligaab.ezdqw.cn
 0.0.0.0	orico-allyator.ezfpw.cn
-0.0.0.0	qp.ezfxpuo.cn
 0.0.0.0	ezhujian.cn
 0.0.0.0	eziot.com
 0.0.0.0	ezrpro.com
@@ -6946,7 +6918,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cloudconf.fengkongcloud.com
 0.0.0.0	fp-bj.fengkongcloud.com
 0.0.0.0	fp-it.fengkongcloud.com
-0.0.0.0	fp-it-acc.fengkongcloud.com
 0.0.0.0	fp-it-tracker.fengkongcloud.com
 0.0.0.0	fp-na-it-acc.fengkongcloud.com
 0.0.0.0	fp-sa-it.fengkongcloud.com
@@ -8852,7 +8823,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	hstyf360.com
 0.0.0.0	g.hsw.cn
 0.0.0.0	hswfj.cn
-0.0.0.0	hsych.com
 0.0.0.0	ht55.cn
 0.0.0.0	ht88.com
 0.0.0.0	hteacher.net
@@ -10479,7 +10449,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kkx.net
 0.0.0.0	kkxx888.com
 0.0.0.0	kkyd.cn
-0.0.0.0	kkyui.club
 0.0.0.0	kkzj.com
 0.0.0.0	klchemicals.net
 0.0.0.0	klgzzs.cn
@@ -12805,7 +12774,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	niparts.com
 0.0.0.0	nipei.com
 0.0.0.0	nipic.cn
-0.0.0.0	down.nishuoa.com
 0.0.0.0	nisihu.com.cn
 0.0.0.0	nithisp.cn
 0.0.0.0	niu.com
@@ -13243,7 +13211,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	at-af.outfit7.com
 0.0.0.0	bidder.dsp.outfit7.com
 0.0.0.0	cdn-gcs.outfit7.com
-0.0.0.0	events-api-ak.outfit7.com
 0.0.0.0	events-api-dyn.outfit7.com
 0.0.0.0	games.outfit7.com
 0.0.0.0	gla-lb-us.outfit7.com
@@ -15383,7 +15350,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	shopeewallet.cn
 0.0.0.0	shopex.cn
 0.0.0.0	shopifp.com
-0.0.0.0	shopifysite.cn
 0.0.0.0	shopmovieproduction.cn
 0.0.0.0	blog.www.facebook.0118.test.shopplus.vip
 0.0.0.0	imail.blog.y0p.kwomeblog.sshop.test.shopplus.vip
@@ -15482,7 +15448,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	si12333.cn
 0.0.0.0	si9377.com
 0.0.0.0	sia.cn
-0.0.0.0	sftestlogin.siaedu.net
 0.0.0.0	sicent.com
 0.0.0.0	sichuancitytechniciancollege.com
 0.0.0.0	sichuanhong.com

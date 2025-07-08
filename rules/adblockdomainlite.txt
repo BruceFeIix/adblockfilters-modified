@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250708163106
-! Last modified: 2025/07/08 16:31:06
-! Blocked domains: 21056
+! Version: 20250709003023
+! Last modified: 2025/07/09 00:30:23
+! Blocked domains: 21021
 !
 0001.best
 000283.cn
@@ -46,7 +46,6 @@ m.0uk9e.cn
 0voice.com
 0x5.me
 1.92.153.104
-1.94.183.238
 10000xing.cn
 1000n.cn
 1000pay.cn
@@ -67,11 +66,8 @@ sdc.10086.cn
 101.126.11.168
 101.201.227.94
 101.201.49.60
-101.226.8.163
 101.35.228.105
 101.37.34.164
-101.42.13.105
-101.42.239.131
 101.43.27.138
 101.43.49.183
 101.43.94.35
@@ -83,7 +79,6 @@ stat.10jqka.com.cn
 vaserviece.10jqka.com.cn
 10tqe.com
 10yan.com
-110.40.185.107
 110.com
 110ask.com
 v.110route.cn
@@ -106,18 +101,14 @@ oss-asq-static.11222.cn
 115.159.149.113
 115.159.71.204
 115.238.252.51
-115.55.198.232
 115.55.216.205
 appversion.115.com
 116.171.106.3
-116.205.242.143
 117.157.17.194
 117.50.194.20
 117.72.36.133
 117.72.70.169
 118.178.133.241
-118.178.235.206
-118.195.189.82
 118.26.174.163
 118.89.58.108
 1188.com
@@ -147,8 +138,6 @@ x.120ask.com
 122cha.com
 123.57.166.174
 123.57.250.154
-123.60.219.97
-123.60.83.46
 ad.12306.cn
 12317wan.com
 12322app.com
@@ -164,7 +153,6 @@ bdad.123pan.cn
 123u.com
 123wenmi.com
 124.220.235.28
-124.222.129.148
 124xz.com
 admusicpic.music.126.net
 ads.music.126.net
@@ -199,9 +187,7 @@ yt-adp.nosdn.127.net
 1357902.cn
 1377.com
 138job.com
-139.159.138.76
 139.159.155.204
-139.196.237.171
 139.198.15.223
 ad.mcloud.139.com
 1391.com
@@ -333,12 +319,10 @@ vstlog.17usoft.com
 17zheng.cn
 17zzz.cn
 18.cn
-180.76.244.133
 1816soso.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.116.20.94
 182.127.127.108
 182.92.99.95
 182682.xyz
@@ -452,7 +436,6 @@ tj.21ic.com
 21voa.com
 21xinyong.com
 21xueshu.com
-220.180.255.224
 222.187.223.34
 22222212.cn
 222aa333bb.com
@@ -746,7 +729,6 @@ m.38xs.com
 39.103.217.92
 39.103.58.78
 39.104.73.194
-39.105.211.255
 39.105.31.193
 39.99.235.220
 abody.39.net
@@ -824,12 +806,9 @@ m.408uo.cn
 41grk.icu
 41ku.cn
 42.226.67.52
-42.226.90.137
 426g.com
 42how.com
-43.139.178.211
 43.139.207.11
-43.139.228.20
 43.143.123.40
 43.226.39.44
 stat.api.4399.com
@@ -853,10 +832,8 @@ stat.api.4399.com
 47.119.34.138
 47.120.32.72
 47.120.46.210
-47.121.24.204
 47.92.144.57
 47.92.246.30
-47.93.28.103
 47.95.31.143
 47.98.224.91
 471.cn
@@ -1051,7 +1028,6 @@ adm.52swine.com
 52tt.com
 52xiyou.com
 52xnjd.com
-api.52youtu.com
 52yuer.cn
 52yysf.com
 52yyxk.com
@@ -1407,10 +1383,7 @@ count.7m.com.cn
 8.134.80.60
 8.138.182.17
 8.138.33.224
-8.138.47.245
-8.140.239.162
 8.148.20.113
-8.153.97.202
 8.154.18.17
 80065.cn
 800880.cn
@@ -6752,7 +6725,6 @@ ez4q2.cn
 analytics.ezbim.net
 orico-ligaab.ezdqw.cn
 orico-allyator.ezfpw.cn
-qp.ezfxpuo.cn
 ezhujian.cn
 eziot.com
 ezrpro.com
@@ -6931,7 +6903,6 @@ api-fp-retry-sa.fengkongcloud.com
 cloudconf.fengkongcloud.com
 fp-bj.fengkongcloud.com
 fp-it.fengkongcloud.com
-fp-it-acc.fengkongcloud.com
 fp-it-tracker.fengkongcloud.com
 fp-na-it-acc.fengkongcloud.com
 fp-sa-it.fengkongcloud.com
@@ -8837,7 +8808,6 @@ hstpnetwork.com
 hstyf360.com
 g.hsw.cn
 hswfj.cn
-hsych.com
 ht55.cn
 ht88.com
 hteacher.net
@@ -10464,7 +10434,6 @@ kkwin.tv
 kkx.net
 kkxx888.com
 kkyd.cn
-kkyui.club
 kkzj.com
 klchemicals.net
 klgzzs.cn
@@ -12790,7 +12759,6 @@ niohome.com
 niparts.com
 nipei.com
 nipic.cn
-down.nishuoa.com
 nisihu.com.cn
 nithisp.cn
 niu.com
@@ -13228,7 +13196,6 @@ apps2.outfit7.com
 at-af.outfit7.com
 bidder.dsp.outfit7.com
 cdn-gcs.outfit7.com
-events-api-ak.outfit7.com
 events-api-dyn.outfit7.com
 games.outfit7.com
 gla-lb-us.outfit7.com
@@ -15368,7 +15335,6 @@ shopeesupermart.cn
 shopeewallet.cn
 shopex.cn
 shopifp.com
-shopifysite.cn
 shopmovieproduction.cn
 blog.www.facebook.0118.test.shopplus.vip
 imail.blog.y0p.kwomeblog.sshop.test.shopplus.vip
@@ -15467,7 +15433,6 @@ shzvvkj.cn
 si12333.cn
 si9377.com
 sia.cn
-sftestlogin.siaedu.net
 sicent.com
 sichuancitytechniciancollege.com
 sichuanhong.com
