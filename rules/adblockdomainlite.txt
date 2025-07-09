@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250709163100
-! Last modified: 2025/07/09 16:31:00
-! Blocked domains: 21734
+! Version: 20250710002816
+! Last modified: 2025/07/10 00:28:16
+! Blocked domains: 21701
 !
 0001.best
 000283.cn
@@ -148,23 +148,17 @@ sdc.10086.cn
 100ye.com
 101.126.11.168
 101.201.227.94
-101.201.49.60
 101.226.8.163
 101.35.228.105
 101.37.236.20
 101.37.34.164
-101.42.13.105
 101.42.239.131
-101.43.2.116
-101.43.27.138
 101.43.49.183
-101.43.94.35
 10100.com
 10101111.com
 1010pic.com
 102jilipark.com
 106.14.68.26
-106.15.224.147
 107788.com
 adm.10jqka.com.cn
 bbsclick.10jqka.com.cn
@@ -182,10 +176,8 @@ soft.110route.com
 112.33.27.73
 oss-asq-static.11222.cn
 113.31.111.76
-113.98.201.248
 11315.com
 1133.cc
-114.55.100.165
 114.55.106.136
 114.fm
 11455.com
@@ -198,7 +190,6 @@ oss-asq-static.11222.cn
 114piaowu.com
 114study.com
 115.159.149.113
-115.159.71.204
 115.238.252.51
 115.55.193.154
 115.55.201.153
@@ -209,7 +200,6 @@ appversion.115.com
 116.205.242.143
 117.157.17.194
 117.50.194.20
-117.72.103.29
 117.72.36.133
 117.72.70.169
 117trip.com
@@ -227,9 +217,7 @@ bj1.118pan.com
 11tea.com
 120.24.64.74
 120.25.163.165
-120.27.20.98
 120.27.235.78
-120.46.212.33
 120.77.253.240
 120.net
 analysis.120ask.com
@@ -242,15 +230,12 @@ x.120ask.com
 120askimages.com
 120jj.cn
 121.36.27.251
-121.36.93.103
-121.40.202.70
 121.43.104.75
 121ask.com
 12291.com
 122cha.com
 123.57.166.174
 123.57.250.154
-123.60.83.46
 ad.12306.cn
 12317wan.com
 12322app.com
@@ -301,7 +286,6 @@ pg-ad-b1.nosdn.127.net
 wanproxy.127.net
 yt-adp.nosdn.127.net
 127z.com
-129.204.254.108
 12dzx.com
 12i.cn
 12tiku.com
@@ -460,7 +444,6 @@ vstlog.17usoft.com
 17zheng.cn
 17zzz.cn
 18.cn
-180.76.244.133
 1816soso.com
 eezdx.erc.18183.com
 img1.18183.com
@@ -580,7 +563,6 @@ tj.21ic.com
 21voa.com
 21xinyong.com
 21xueshu.com
-220.180.255.224
 222.187.223.34
 22222212.cn
 222aa333bb.com
@@ -882,13 +864,10 @@ m.38xs.com
 38zu.cn
 39.100.33.142
 39.103.217.92
-39.103.236.200
 39.103.58.78
 39.104.73.194
-39.105.211.255
 39.105.31.193
 39.107.242.125
-39.107.85.83
 39.99.235.220
 abody.39.net
 app-g.39.net
@@ -971,8 +950,6 @@ m.408uo.cn
 42.226.67.52
 426g.com
 42how.com
-43.139.185.214
-43.139.228.20
 43.140.215.17
 43.143.123.40
 43.226.39.44
@@ -989,18 +966,14 @@ stat.api.4399.com
 47.104.173.216
 47.108.141.25
 47.109.201.173
-47.109.48.57
 47.109.77.84
 47.109.90.134
 47.109.93.252
 47.113.217.92
-47.116.197.65
 47.119.34.138
-47.120.13.85
 47.120.32.72
 47.120.46.210
 47.121.24.204
-47.92.144.57
 47.92.246.30
 47.93.28.103
 47.98.224.91
@@ -1559,14 +1532,10 @@ count.7m.com.cn
 7yan.net
 7ywl.com
 8.131.63.6
-8.134.156.248
 8.134.199.119
-8.137.114.210
 8.138.182.17
 8.138.33.224
 8.140.239.162
-8.148.224.96
-8.153.97.202
 8.154.18.17
 80065.cn
 800880.cn
@@ -3777,7 +3746,6 @@ bndsjc.com
 bnet.cn
 bnocode.com
 bntyh.com
-bnunyoueo.top
 boailvyou.com
 boardmix.cn
 bob.com
@@ -7854,7 +7822,6 @@ ggdna.com
 ggkuai.com
 ggmm777.com
 ggname.cn
-ggrwvo.com
 zxcs.ggwan.com
 ggweb.net
 ggzha.com
