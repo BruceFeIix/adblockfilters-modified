@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250711163052
-! Last modified: 2025/07/11 16:30:52
-! Blocked domains: 21690
+! Version: 20250712002924
+! Last modified: 2025/07/12 00:29:24
+! Blocked domains: 21634
 ! unBlocked domains: 51
 !
 ||0001.best^
@@ -151,7 +151,6 @@
 ||101.37.34.164^
 ||101.42.13.105^
 ||101.42.239.131^
-||101.43.2.116^
 ||101.43.49.183^
 ||10100.com^
 ||1010pic.com^
@@ -176,7 +175,6 @@
 ||112.33.27.73^
 ||oss-asq-static.11222.cn^
 ||113.31.111.76^
-||113.45.4.235^
 ||113.98.201.248^
 ||11315.com^
 ||1133.cc^
@@ -194,8 +192,6 @@
 ||114study.com^
 ||115.159.149.113^
 ||115.159.71.204^
-||115.238.252.51^
-||115.55.193.154^
 ||appversion.115.com^
 ||1156.com^
 ||1156.net^
@@ -219,7 +215,6 @@
 ||119.news^
 ||120.25.163.165^
 ||120.27.20.98^
-||120.46.212.33^
 ||120.77.253.240^
 ||120.net^
 ||analysis.120ask.com^
@@ -231,10 +226,8 @@
 ||x.120ask.com^
 ||120askimages.com^
 ||120jj.cn^
-||121.36.93.103^
 ||121.43.104.75^
 ||121ask.com^
-||122.51.218.18^
 ||12291.com^
 ||122cha.com^
 ||123.57.166.174^
@@ -256,7 +249,6 @@
 ||bdad.123pan.cn^
 ||123u.com^
 ||123wenmi.com^
-||124.220.235.28^
 ||124xz.com^
 ||12580.tv^
 ||125jia.cn^
@@ -561,7 +553,6 @@
 ||21voa.com^
 ||21xinyong.com^
 ||21xueshu.com^
-||220.180.255.224^
 ||222.187.223.34^
 ||22222212.cn^
 ||222aa333bb.com^
@@ -948,8 +939,6 @@
 ||4100.com^
 ||41grk.icu^
 ||41ku.cn^
-||42.226.67.52^
-||42.226.90.145^
 ||42.230.39.28^
 ||426g.com^
 ||42f54887.cn^
@@ -971,18 +960,14 @@
 ||47.108.141.25^
 ||47.108.162.213^
 ||47.108.39.159^
-||47.109.201.173^
 ||47.109.48.57^
 ||47.109.77.84^
 ||47.109.93.252^
 ||47.113.217.92^
 ||47.116.197.65^
 ||47.119.34.138^
-||47.120.13.85^
 ||47.120.32.72^
 ||47.120.46.210^
-||47.121.24.204^
-||47.122.20.70^
 ||47.92.144.57^
 ||47.92.246.30^
 ||47.93.28.103^
@@ -1301,7 +1286,6 @@
 ||m.58xs.tw^
 ||58xwz.cn^
 ||58zhuangxiu.cn^
-||59.110.92.49^
 ||59.59.6.86^
 ||592skins.com^
 ||595image.com^
@@ -1545,15 +1529,12 @@
 ||7yan.net^
 ||7ywl.com^
 ||8.131.63.6^
-||8.134.156.248^
 ||8.134.199.119^
 ||8.137.114.210^
 ||8.138.182.17^
 ||8.138.33.224^
 ||8.138.47.245^
 ||8.140.239.162^
-||8.148.224.96^
-||8.153.97.202^
 ||80065.cn^
 ||800880.cn^
 ||800hr.com^
@@ -1570,7 +1551,6 @@
 ||80w19v.cn^
 ||81.69.43.28^
 ||81.70.85.113^
-||81.71.64.78^
 ||81265.com^
 ||m1.81312.com^
 ||8158.com^
@@ -2049,7 +2029,6 @@
 ||aec8e.com^
 ||aecichina.com^
 ||aegt.com.cn^
-||aeparcels.live^
 ||aewz.com^
 ||af6s.icu^
 ||afanti100.com^
@@ -2615,7 +2594,6 @@
 ||andayiyuan.com^
 ||androidblender.com^
 ||dow.andylab.cn^
-||aneparcels.live^
 ||anfang.cn^
 ||anfeng.com^
 ||anfensi.com^
@@ -2778,7 +2756,6 @@
 ||asdtz.cn^
 ||asdxxcg.top^
 ||asdyui16.cn^
-||aseparcels.live^
 ||asiangames-weather.cn^
 ||asianmetal.com^
 ||asiapump123.com^
@@ -2788,7 +2765,6 @@
 ||asleyu.com^
 ||aslk2018.com^
 ||aso100.com^
-||asparcels.live^
 ||aspiredigital.cn^
 ||aspwg.cn^
 ||aspxhome.com^
@@ -2839,7 +2815,6 @@
 ||aurorapush.cn^
 ||ausaas.cn^
 ||ausao.cn^
-||ausparcelsnow.live^
 ||ausservice.today^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
@@ -2887,7 +2862,6 @@
 ||adm2.autoimg.cn^
 ||adm3.autoimg.cn^
 ||img2.autoimg.cn^
-||autolls.live^
 ||store.is.autonavi.com^
 ||autoshafa.com^
 ||aux-home.com^
@@ -2970,10 +2944,6 @@
 ||aimg.babytreeimg.com^
 ||babyzone.cn^
 ||bacaoo.com^
-||baccredoeco.com^
-||bacifhyeo.com^
-||bacoueysbu.com^
-||bacueocye.com^
 ||badambiz.com^
 ||badou.com^
 ||badwe.com^
@@ -3790,7 +3760,6 @@
 ||bmsc.cn^
 ||bmw100.cn^
 ||monitor.bnc66.com^
-||bnclcintegrol.com^
 ||bndsjc.com^
 ||bnet.cn^
 ||bnocode.com^
@@ -3919,7 +3888,6 @@
 ||burgkbc.com^
 ||burningvocabulary.com^
 ||buses.cn^
-||busilness-tkmall.com^
 ||busydata.cn^
 ||butiao.com^
 ||butterdogchange.com^
@@ -4221,7 +4189,6 @@
 ||carlipa.online^
 ||cartx.cloud^
 ||carxoo.com^
-||casaparcel.live^
 ||casbin.org^
 ||casdk.cn^
 ||casdoor.com^
@@ -5198,7 +5165,6 @@
 ||co99.net^
 ||coalaa.com^
 ||coaledu.cn^
-||cobnlinke.com^
 ||coc56.com^
 ||coco988.cn^
 ||cocodiy.com^
@@ -8113,7 +8079,6 @@
 ||goufang.com^
 ||goupuzi.com^
 ||gouqiysw.com^
-||ddd.gouwuke.cn^
 ||gouwuzhinan.cn^
 ||gouyuju.cn^
 ||gouzhibao.cn^
@@ -9062,7 +9027,6 @@
 ||cdnjs.hro-cosmetics.com^
 ||hrrsj.com^
 ||hrtechchina.com^
-||hrvdvbtgifrx.xyz^
 ||hryspan.cn^
 ||hryspap.cn^
 ||hryspaq.cn^
@@ -9886,7 +9850,6 @@
 ||invisalign.cn^
 ||invoiceassist.services^
 ||invoiceissue.services^
-||invoiceissues.services^
 ||io0288.cn^
 ||ioncol.com^
 ||ionewu.com^
@@ -10630,7 +10593,6 @@
 ||jpush.io^
 ||jpushoa.com^
 ||jpuv.cn^
-||jpxcoinbase.com^
 ||jpzy01.com^
 ||jq007.com^
 ||jqcom.cn^
@@ -10828,7 +10790,6 @@
 ||kaixinyf.cn^
 ||kaiyun.com^
 ||kajicam.com^
-||kaka-game.com^
 ||kakaha.cn^
 ||789.kakamobi.cn^
 ||short-video.kakamobi.cn^
@@ -11383,8 +11344,6 @@
 ||l7u3kf.cn^
 ||la61d.cn^
 ||laawmmy.cn^
-||labbrand-data.com^
-||labbrand-insight.com^
 ||labome.cn^
 ||lady177.com^
 ||ladymetro.com^
@@ -12021,7 +11980,6 @@
 ||lulumao.com.cn^
 ||lumeo.cn^
 ||lumosfun.com^
-||lunatefund.digital^
 ||lunkr.cn^
 ||lunzn.com^
 ||luobo.cn^
@@ -14108,7 +14066,6 @@
 ||photozoomchina.com^
 ||php.cn^
 ||php1.cn^
-||phpost.help^
 ||phtaya68.com^
 ||www.phtaya69.com^
 ||www.phtaya70.com^
@@ -16325,7 +16282,6 @@
 ||res-ga.smzdm.com^
 ||shence-import.smzdm.com^
 ||smzy.com^
-||sn3iau.top^
 ||snail.com^
 ||errortracking.snapp.site^
 ||push.snappea.com^
@@ -16627,7 +16583,6 @@
 ||sqzkzyc.com^
 ||srbzw.cn^
 ||srcb.com^
-||srcgv.com^
 ||m.srnoh.cn^
 ||ss-tjd.com^
 ||ss88tt.com^
@@ -16716,7 +16671,6 @@
 ||stuowq.cn^
 ||styd.cn^
 ||stytc.cn^
-||su1eoo.top^
 ||suangua.cn^
 ||suanya.com^
 ||subaoxw.com^
@@ -17478,7 +17432,6 @@
 ||tkglobalshop.com^
 ||tklbxip.cn^
 ||tkmdng.cn^
-||tkmillbusiness.com^
 ||tkmly.cn^
 ||tkww.hk^
 ||tlinx.com^
@@ -17512,10 +17465,6 @@
 ||togothermany.cn^
 ||a.tn.token-ad.com^
 ||tolinotice.services^
-||tolinvoice.live^
-||tolinvoices.services^
-||tolinvoicetax.services^
-||toltaxhandle.services^
 ||track.tom.com^
 ||track.tomwx.net^
 ||tongbaimi.cn^
@@ -18644,7 +18593,6 @@
 ||wangchuangye.com^
 ||wanghejun.cn^
 ||wangluoruanjian.com^
-||wangluotop.com^
 ||wanglv.vip^
 ||mlog.wangsu.com^
 ||wanguyou.com^
@@ -18827,7 +18775,6 @@
 ||weinadijy.cn^
 ||weipaitang.com^
 ||weiqiqu.cn^
-||weiweiwashu.com^
 ||weixiaozs.com^
 ||weixinac.com^
 ||badjs.weixinbridge.com^
@@ -18912,7 +18859,6 @@
 ||whbmy.com^
 ||whdxky.com^
 ||xapp-ad.yawentv.com.whecloud.com^
-||whestapp.com^
 ||whgh1.icu^
 ||docom-vapnext.whhajo.cn^
 ||whiftec.com^
@@ -20038,7 +19984,6 @@
 ||xvgate.com^
 ||xvorpqz.cn^
 ||xw93.com^
-||xwangzi.com^
 ||xwjzz.cn^
 ||xwmr.com.cn^
 ||cc.xwscg.com^
@@ -21182,7 +21127,6 @@
 ||logapi-and.zhipin.com^
 ||logapi-ios.zhipin.com^
 ||t.zhipin.com^
-||zhiping.online^
 ||zhipuai.cn^
 ||zhiqiang.org^
 ||zhiqicms.com^
