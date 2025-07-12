@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250712162726
-# Last modified: 2025/07/12 16:27:26
-# Blocked domains: 21547
+# Version: 20250713002616
+# Last modified: 2025/07/13 00:26:16
+# Blocked domains: 21516
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -157,12 +157,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	100ye.cn
 0.0.0.0	100ye.com
 0.0.0.0	101.126.11.168
-0.0.0.0	101.200.193.211
 0.0.0.0	101.201.227.94
 0.0.0.0	101.201.49.60
 0.0.0.0	101.35.228.105
 0.0.0.0	101.37.34.164
-0.0.0.0	101.42.13.105
 0.0.0.0	101.42.239.131
 0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
@@ -172,7 +170,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101weiqi.com
 0.0.0.0	102jilipark.com
 0.0.0.0	106.14.68.26
-0.0.0.0	106.15.224.147
 0.0.0.0	107788.com
 0.0.0.0	adm.10jqka.com.cn
 0.0.0.0	bbsclick.10jqka.com.cn
@@ -217,7 +214,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.70.169
 0.0.0.0	117trip.com
 0.0.0.0	118.178.133.241
-0.0.0.0	118.195.189.82
 0.0.0.0	118.26.174.163
 0.0.0.0	1183.cn
 0.0.0.0	1188.com
@@ -226,7 +222,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bj1.118pan.com
 0.0.0.0	119.news
 0.0.0.0	120.25.163.165
-0.0.0.0	120.27.20.98
 0.0.0.0	120.48.25.39
 0.0.0.0	120.77.253.240
 0.0.0.0	120.net
@@ -262,8 +257,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdad.123pan.cn
 0.0.0.0	123u.com
 0.0.0.0	123wenmi.com
-0.0.0.0	124.220.235.28
-0.0.0.0	124.222.129.148
 0.0.0.0	124xz.com
 0.0.0.0	12580.tv
 0.0.0.0	12584.cn
@@ -311,7 +304,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1366.com
 0.0.0.0	1377.com
 0.0.0.0	139.159.155.204
-0.0.0.0	139.196.237.171
 0.0.0.0	139.196.248.134
 0.0.0.0	139.198.15.223
 0.0.0.0	ad.mcloud.139.com
@@ -328,7 +320,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1503.net
 0.0.0.0	m.1518.com
 0.0.0.0	152.136.140.85
-0.0.0.0	152.136.159.25
 0.0.0.0	1527ego.com
 0.0.0.0	15386.cn
 0.0.0.0	15558.cn
@@ -457,7 +448,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eezdx.erc.18183.com
 0.0.0.0	img1.18183.com
 0.0.0.0	zpe.klre.18183.com
-0.0.0.0	182.127.128.112
 0.0.0.0	182.92.99.95
 0.0.0.0	182682.xyz
 0.0.0.0	183im.com
@@ -875,7 +865,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	39.103.58.78
 0.0.0.0	39.104.73.194
 0.0.0.0	39.105.31.193
-0.0.0.0	39.107.242.125
 0.0.0.0	39.99.235.220
 0.0.0.0	abody.39.net
 0.0.0.0	app-g.39.net
@@ -958,9 +947,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	426g.com
 0.0.0.0	42f54887.cn
 0.0.0.0	42how.com
-0.0.0.0	43.139.185.214
-0.0.0.0	43.139.207.11
-0.0.0.0	43.140.215.17
 0.0.0.0	43.226.39.44
 0.0.0.0	stat.api.4399.com
 0.0.0.0	4399sy.com
@@ -975,18 +961,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.104.169.91
 0.0.0.0	47.104.173.216
 0.0.0.0	47.108.141.25
-0.0.0.0	47.108.162.213
-0.0.0.0	47.108.39.159
 0.0.0.0	47.109.201.173
-0.0.0.0	47.109.48.57
 0.0.0.0	47.109.77.84
-0.0.0.0	47.109.90.134
-0.0.0.0	47.109.93.252
 0.0.0.0	47.119.34.138
-0.0.0.0	47.120.13.85
-0.0.0.0	47.120.32.72
 0.0.0.0	47.120.46.210
-0.0.0.0	47.121.24.204
 0.0.0.0	47.92.144.57
 0.0.0.0	47.92.246.30
 0.0.0.0	47.93.28.103
@@ -1550,16 +1528,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	7yan.net
 0.0.0.0	7ywl.com
 0.0.0.0	8.131.63.6
-0.0.0.0	8.134.156.248
 0.0.0.0	8.134.199.119
 0.0.0.0	8.137.114.210
 0.0.0.0	8.138.182.17
 0.0.0.0	8.138.33.224
-0.0.0.0	8.138.47.245
-0.0.0.0	8.140.239.162
 0.0.0.0	8.141.166.236
-0.0.0.0	8.148.224.96
-0.0.0.0	8.154.18.17
 0.0.0.0	80065.cn
 0.0.0.0	800880.cn
 0.0.0.0	800hr.com
@@ -7997,7 +7970,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	go35.cn
 0.0.0.0	go7game.com
 0.0.0.0	goalfore.cn
-0.0.0.0	goalie.cn
 0.0.0.0	gocye.com
 0.0.0.0	godimage.mobi
 0.0.0.0	godloveme.cn
@@ -8090,7 +8062,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	googletraveladservices-cn.com
 0.0.0.0	googletraveladservices.com
 0.0.0.0	googlevads-cn.com
-0.0.0.0	goohf.cn
 0.0.0.0	goohi.com
 0.0.0.0	goolink.org
 0.0.0.0	gooniu.com
@@ -11966,7 +11937,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ltesting.net
 0.0.0.0	ltgamesglobal.com
 0.0.0.0	lthxz.cn
-0.0.0.0	amazon.co.jp.ltiy.cn
 0.0.0.0	ltjlj.cn
 0.0.0.0	luaninfo.com
 0.0.0.0	luckincoffee.com
@@ -14297,7 +14267,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	proginn.com
 0.0.0.0	progressingeography.com
 0.0.0.0	proleantech.com
-0.0.0.0	promerica-sn.cn
 0.0.0.0	area.propsad.com
 0.0.0.0	klcdn.propsad.com
 0.0.0.0	proteus8.cn
