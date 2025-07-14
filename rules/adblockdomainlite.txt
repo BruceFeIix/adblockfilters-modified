@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250714002624
-! Last modified: 2025/07/14 00:26:24
-! Blocked domains: 21580
+! Version: 20250714095512
+! Last modified: 2025/07/14 09:55:12
+! Blocked domains: 21575
 !
 0001.best
 000283.cn
@@ -143,10 +143,13 @@ sdc.10086.cn
 101.200.193.211
 101.201.227.94
 101.201.49.60
+101.226.8.163
 101.35.228.105
 101.37.34.164
 101.42.239.131
+101.43.2.116
 101.43.49.183
+101.43.94.35
 10100.com
 1010pic.com
 101weiqi.com
@@ -170,12 +173,12 @@ soft.110route.com
 11185.cn
 112.33.27.73
 oss-asq-static.11222.cn
-113.215.223.150
 113.31.111.76
 113.45.4.235
 113.98.201.248
 11315.com
 1133.cc
+114.55.100.165
 114.55.106.136
 114.fm
 11455.com
@@ -188,30 +191,26 @@ oss-asq-static.11222.cn
 114piaowu.com
 114study.com
 115.159.149.113
-115.55.223.250
+115.238.252.51
 appversion.115.com
 1156.com
 116.171.106.3
 117.157.17.194
 117.50.194.20
-117.72.103.9
 117.72.36.133
 117.72.70.169
 117trip.com
 118.178.133.241
-118.195.189.82
 118.26.174.163
 1188.com
 11888vip.cn
 118hua.com
 bj1.118pan.com
-119.91.203.199
 119.news
 11bqg.com
 120.24.64.74
 120.25.163.165
 120.27.235.78
-120.48.25.39
 120.77.253.240
 120.net
 analysis.120ask.com
@@ -222,7 +221,6 @@ log.120ask.com
 scws.120ask.com
 x.120ask.com
 120askimages.com
-121.36.27.251
 121.43.104.75
 121ask.com
 12291.com
@@ -245,7 +243,7 @@ download.123cw.cn
 bdad.123pan.cn
 123u.com
 123wenmi.com
-124.220.235.28
+124.222.129.148
 124xz.com
 12580.tv
 12584.cn
@@ -852,6 +850,7 @@ m.38xs.com
 38zu.cn
 39.100.33.142
 39.103.217.92
+39.103.236.200
 39.103.58.78
 39.104.73.194
 39.105.31.193
@@ -953,18 +952,19 @@ stat.api.4399.com
 47.104.169.91
 47.104.173.216
 47.108.141.25
-47.108.63.64
 47.109.77.84
 47.109.93.252
 47.119.34.138
 47.120.32.72
 47.120.46.210
+47.122.20.70
 47.92.246.30
 47.98.224.91
 471.cn
 m.479db.cn
 p2link.483n.com
 48phjoin.com
+49.232.56.252
 49.234.48.162
 4a9.cn
 4anet.com
@@ -2713,7 +2713,6 @@ apuslauncher.com
 aqara.cn
 track.aqara.com
 track-ger.aqara.com
-jaccs-aperts.aqgtw.cn
 aqgyju.cn
 pay.aqiu6.com
 aqsiqauto.com
@@ -7504,7 +7503,6 @@ freetiku.com
 freeyun.net
 freshippo.com
 freshplaza.cn
-frgdd.cn
 fric.cn
 fromgeek.com
 frtgraphite.com
@@ -13968,7 +13966,6 @@ pdhhmf.cn
 pdiabbi.cn
 pdiinfo.com.cn
 pdmqz.cn
-pdncr.cn
 pdsszxy.com
 pdweoyw.cn
 pdxubxc.cn
@@ -18835,7 +18832,6 @@ wgjpur.com
 wgm66.com
 wgnpq.com
 wgpjz.cn
-wgxdr.cn
 wh88.com
 whaee.com
 whale123.com
@@ -19864,7 +19860,6 @@ xsbnxxzw.cn
 xsc.cn
 xschu.com
 xsfaya.com
-aeon-arcsure.xsftb.cn
 xshellcn.com
 xshfw.cn
 img.xsjk.net
