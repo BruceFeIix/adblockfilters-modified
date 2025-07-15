@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250715002950
-! Last modified: 2025/07/15 00:29:50
-! Blocked domains: 21601
+! Version: 20250715095535
+! Last modified: 2025/07/15 09:55:35
+! Blocked domains: 21604
 ! unBlocked domains: 51
 !
 ||0001.best^
@@ -104,7 +104,7 @@
 ||0voice.com^
 ||0x5.me^
 ||1-bmo-client-login.com^
-||1.94.183.238^
+||1.94.98.11^
 ||10000link.com^
 ||10000xing.cn^
 ||1000n.cn^
@@ -135,9 +135,9 @@
 ||101.132.131.225^
 ||101.200.193.211^
 ||101.201.227.94^
+||101.226.8.163^
 ||101.35.228.105^
 ||101.37.34.164^
-||101.42.239.131^
 ||101.43.2.116^
 ||101.43.49.183^
 ||10100.com^
@@ -145,7 +145,6 @@
 ||101weiqi.com^
 ||102jilipark.com^
 ||106.14.68.26^
-||106.15.224.147^
 ||107788.com^
 ||adm.10jqka.com.cn^
 ||bbsclick.10jqka.com.cn^
@@ -165,7 +164,6 @@
 ||112.33.27.73^
 ||oss-asq-static.11222.cn^
 ||113.31.111.76^
-||113.45.4.235^
 ||113.46.198.202^
 ||113.98.201.248^
 ||11315.com^
@@ -183,15 +181,12 @@
 ||114study.com^
 ||115.159.149.113^
 ||115.159.71.204^
-||115.190.8.204^
 ||115.238.252.51^
 ||appversion.115.com^
 ||1156.com^
 ||116.171.106.3^
 ||117.157.17.194^
-||117.50.178.197^
 ||117.50.194.20^
-||117.72.206.39^
 ||117.72.36.133^
 ||117.72.70.169^
 ||117trip.com^
@@ -204,8 +199,9 @@
 ||119.news^
 ||1190119.com^
 ||11bqg.com^
-||120.24.64.74^
 ||120.25.163.165^
+||120.27.20.98^
+||120.27.235.78^
 ||120.77.253.240^
 ||120.net^
 ||analysis.120ask.com^
@@ -238,14 +234,14 @@
 ||bdad.123pan.cn^
 ||123u.com^
 ||123wenmi.com^
-||124.222.129.148^
 ||124xz.com^
 ||12580.tv^
 ||12584.cn^
 ||125jia.cn^
 ||125yan.com^
 ||126.cn^
-||126.com^
+||analytics.126.com^
+||ir.mail.126.com^
 ||admusicpic.music.126.net^
 ||ads.music.126.net^
 ||iadmusicmat.music.126.net^
@@ -933,6 +929,7 @@
 ||42tj.com^
 ||43.139.185.214^
 ||43.139.207.11^
+||43.143.123.40^
 ||43.226.39.44^
 ||stat.api.4399.com^
 ||4399sy.com^
@@ -947,6 +944,7 @@
 ||47.104.169.91^
 ||47.104.173.216^
 ||47.108.141.25^
+||47.108.162.213^
 ||47.109.77.84^
 ||47.119.34.138^
 ||47.120.32.72^
@@ -1516,8 +1514,6 @@
 ||8.137.114.210^
 ||8.138.182.17^
 ||8.138.33.224^
-||8.140.239.162^
-||8.141.166.236^
 ||80065.cn^
 ||800880.cn^
 ||800hr.com^
@@ -2940,6 +2936,7 @@
 ||aimg.babytreeimg.com^
 ||babyzone.cn^
 ||bacaoo.com^
+||baccredoeco.com^
 ||bacifhyeo.com^
 ||bacoueysbu.com^
 ||bacueocye.com^
@@ -7336,6 +7333,7 @@
 ||fjbc.cn^
 ||fjdvzx.cn^
 ||aeon-femin.fjfqdkj.cn^
+||fjgycw.cn^
 ||fjhqch.com^
 ||fjnyxb.cn^
 ||fjsbwj.cn^
@@ -9390,6 +9388,7 @@
 ||wneia.iaskhot.com^
 ||iaspx.cn^
 ||iautos.cn^
+||ib88.cn^
 ||ibabylabs.net^
 ||ibafnw.cn^
 ||ibangkf.com^
@@ -10138,6 +10137,8 @@
 ||jc001.cn^
 ||jc35.com^
 ||jccee.com^
+||jccgty.cn^
+||jcchunya.cn^
 ||jcimjournal.com^
 ||jcku.com^
 ||vs.wshareit.com.b.galileo.jcloud-cdn.com^
@@ -11331,6 +11332,7 @@
 ||l7u3kf.cn^
 ||la61d.cn^
 ||laawmmy.cn^
+||labbrand-data.com^
 ||labbrand-insight.com^
 ||labome.cn^
 ||lady177.com^
@@ -12896,7 +12898,6 @@
 ||mposv.com^
 ||mpp9h.cn^
 ||docom-ossster.mprxw.cn^
-||icloud-keyfold.mpuwpz.cn^
 ||mqikan.com^
 ||mrsunjj.cn^
 ||mrxwlb.com^
@@ -14344,7 +14345,6 @@
 ||pycu.cn^
 ||pygokay.cn^
 ||vv1.pyhfxdm.cn^
-||pymrh.cn^
 ||pystar.cn^
 ||pyt3.cn^
 ||python100.com^
@@ -14592,6 +14592,7 @@
 ||qixiu88.com^
 ||qixiuzs.cn^
 ||qixiwangluo.com^
+||qixl.cn^
 ||qiyegongqiu1.qiyegongqiu.com^
 ||qiyeit.com.cn^
 ||api.cupid.qiyi.com^
@@ -15412,7 +15413,6 @@
 ||rumt-zh.com^
 ||runcobo.com^
 ||rundefit.com^
-||wap.runlinga.cn^
 ||runsky.com^
 ||runyes.com^
 ||abc.ruodian360.com^
@@ -15519,6 +15519,7 @@
 ||saxysec.com^
 ||m.sbaoe.com^
 ||sbird.xyz^
+||sbisecr.cn^
 ||sbkk8.cn^
 ||sboite.cn^
 ||pay.sboot.cn^
@@ -16090,6 +16091,7 @@
 ||pfp.sina.net^
 ||sinacloud.net^
 ||adimg.gslb.sinaedge.com^
+||sinahealth.com.cn^
 ||ad.us.sinaimg.cn^
 ||d1.sinaimg.cn^
 ||d3.sinaimg.cn^
@@ -18832,6 +18834,7 @@
 ||whale123.com^
 ||whalecloud.com^
 ||whb.cn^
+||whbmoapp.com^
 ||whbmy.com^
 ||whdxky.com^
 ||xapp-ad.yawentv.com.whecloud.com^
