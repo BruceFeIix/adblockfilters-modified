@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250716163149
-# Last modified: 2025/07/16 16:31:49
-# Blocked domains: 21917
+# Version: 20250717003026
+# Last modified: 2025/07/17 00:30:26
+# Blocked domains: 21890
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -155,14 +155,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	100ye.cn
 0.0.0.0	100ye.com
 0.0.0.0	101.132.131.225
-0.0.0.0	101.200.193.211
 0.0.0.0	101.201.227.94
 0.0.0.0	101.226.8.163
 0.0.0.0	101.35.228.105
 0.0.0.0	101.37.34.164
 0.0.0.0	101.42.13.105
 0.0.0.0	101.42.239.131
-0.0.0.0	101.43.2.116
 0.0.0.0	101.43.27.138
 0.0.0.0	101.43.49.183
 0.0.0.0	10100.com
@@ -210,9 +208,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	116.171.106.3
 0.0.0.0	116.205.242.143
 0.0.0.0	117.157.17.194
-0.0.0.0	117.50.178.197
 0.0.0.0	117.50.194.20
-0.0.0.0	117.72.103.9
 0.0.0.0	117.72.107.255
 0.0.0.0	117.72.36.133
 0.0.0.0	117.72.69.118
@@ -232,7 +228,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	120.25.163.165
 0.0.0.0	120.27.20.98
 0.0.0.0	120.27.235.78
-0.0.0.0	120.48.25.39
 0.0.0.0	120.77.253.240
 0.0.0.0	120.net
 0.0.0.0	analysis.120ask.com
@@ -582,7 +577,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	21voa.com
 0.0.0.0	21xinyong.com
 0.0.0.0	21xueshu.com
-0.0.0.0	220.180.255.224
 0.0.0.0	222.187.223.34
 0.0.0.0	22222212.cn
 0.0.0.0	222aa333bb.com
@@ -975,8 +969,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	42how.com
 0.0.0.0	42tj.com
 0.0.0.0	43.139.207.11
-0.0.0.0	43.139.228.20
-0.0.0.0	43.140.215.17
 0.0.0.0	43.143.123.40
 0.0.0.0	43.226.39.44
 0.0.0.0	stat.api.4399.com
@@ -992,17 +984,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.104.169.91
 0.0.0.0	47.104.173.216
 0.0.0.0	47.108.141.25
-0.0.0.0	47.108.162.213
 0.0.0.0	47.108.63.64
 0.0.0.0	47.109.201.173
 0.0.0.0	47.109.77.84
-0.0.0.0	47.113.217.92
 0.0.0.0	47.119.34.138
 0.0.0.0	47.120.46.210
 0.0.0.0	47.92.246.30
 0.0.0.0	47.93.28.103
 0.0.0.0	47.95.31.143
-0.0.0.0	47.96.13.97
 0.0.0.0	47.98.224.91
 0.0.0.0	471.cn
 0.0.0.0	m.479db.cn
@@ -1381,7 +1370,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	simba.6.cn
 0.0.0.0	union.6.cn
 0.0.0.0	60.166.36.5
-0.0.0.0	60.204.169.16
 0.0.0.0	60.204.245.37
 0.0.0.0	60.22.23.50
 0.0.0.0	60608787.com
@@ -1570,12 +1558,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.199.119
 0.0.0.0	8.137.114.210
-0.0.0.0	8.137.80.215
 0.0.0.0	8.138.182.17
 0.0.0.0	8.138.33.224
 0.0.0.0	8.138.47.245
 0.0.0.0	8.141.166.236
-0.0.0.0	8.154.18.17
 0.0.0.0	80065.cn
 0.0.0.0	800880.cn
 0.0.0.0	800hr.com
@@ -2074,7 +2060,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	aec8e.com
 0.0.0.0	aecichina.com
 0.0.0.0	aegt.com.cn
-0.0.0.0	aeparcels.live
 0.0.0.0	aewz.com
 0.0.0.0	af6s.icu
 0.0.0.0	afanti100.com
@@ -2647,7 +2632,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	andayiyuan.com
 0.0.0.0	androidblender.com
 0.0.0.0	dow.andylab.cn
-0.0.0.0	aneparcels.live
 0.0.0.0	anfang.cn
 0.0.0.0	anfeng.com
 0.0.0.0	anfensi.com
@@ -3791,7 +3775,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bjypcenglish.cn
 0.0.0.0	bjyyb.net
 0.0.0.0	bjyybao.com
-0.0.0.0	bjzhy.asia
 0.0.0.0	bjzksj.com.cn
 0.0.0.0	bjzsyx.cn
 0.0.0.0	bjzxcp.com
@@ -6018,7 +6001,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	g1.dfcfw.com
 0.0.0.0	dfczyj.com
 0.0.0.0	dfad.dfdaily.com
-0.0.0.0	dfgdfd.asia
 0.0.0.0	dfjyw.com
 0.0.0.0	dflzm.com
 0.0.0.0	dfsglobal.cn
@@ -6762,7 +6744,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ecarxgroup.com
 0.0.0.0	eccki.cn
 0.0.0.0	eccn.com
-0.0.0.0	ecdun.com
 0.0.0.0	echarts.cn
 0.0.0.0	echemsrc.com
 0.0.0.0	echinacities.com
@@ -8546,7 +8527,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	hangyan.co
 0.0.0.0	go.hangzhou.com.cn
 0.0.0.0	hangzhouqisheng.com
-0.0.0.0	hanhai-tiktok.com
 0.0.0.0	hankunlaw.com
 0.0.0.0	hanlanad.com
 0.0.0.0	hanlin.com
@@ -10187,7 +10167,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mqwe.iufdgi.cn
 0.0.0.0	mqwf.iufdgi.cn
 0.0.0.0	iuuapp.com
-0.0.0.0	iuyoiu.asia
 0.0.0.0	ivill.cn
 0.0.0.0	ivolces.com
 0.0.0.0	ivqtrjt.cn
@@ -10951,7 +10930,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kaixinyf.cn
 0.0.0.0	kaiyun.com
 0.0.0.0	kajicam.com
-0.0.0.0	kaka-game.com
 0.0.0.0	kakaha.cn
 0.0.0.0	789.kakamobi.cn
 0.0.0.0	short-video.kakamobi.cn
@@ -15894,7 +15872,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	secdoctor.com
 0.0.0.0	datacollect.secoo.com
 0.0.0.0	secrss.com
-0.0.0.0	secshow.net
 0.0.0.0	securityearth.cn
 0.0.0.0	seeed.cc
 0.0.0.0	seetao.com
@@ -16433,7 +16410,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.skspt.cn
 0.0.0.0	c.skwenq.cn
 0.0.0.0	v.skwenq.cn
-0.0.0.0	skwxwh.com
 0.0.0.0	skycut.cn
 0.0.0.0	skydimo.com
 0.0.0.0	skyjh.cn
@@ -16822,7 +16798,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sqzkzyc.com
 0.0.0.0	srbzw.cn
 0.0.0.0	srcb.com
-0.0.0.0	srcgv.com
 0.0.0.0	m.srnoh.cn
 0.0.0.0	ss-tjd.com
 0.0.0.0	sscefsol.com
@@ -17644,7 +17619,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	timeofdate.com
 0.0.0.0	timiwc.com
 0.0.0.0	tindd.com
-0.0.0.0	tingan.asia
 0.0.0.0	tingkez.com
 0.0.0.0	tingmall.com
 0.0.0.0	tingmin.com.cn
@@ -18835,7 +18809,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wangchuangye.com
 0.0.0.0	wanghejun.cn
 0.0.0.0	wangluoruanjian.com
-0.0.0.0	wangluotop.com
 0.0.0.0	wanglv.vip
 0.0.0.0	mlog.wangsu.com
 0.0.0.0	wanguyou.com

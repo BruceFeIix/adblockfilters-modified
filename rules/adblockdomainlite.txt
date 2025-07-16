@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250716163150
-! Last modified: 2025/07/16 16:31:50
-! Blocked domains: 21917
+! Version: 20250717003026
+! Last modified: 2025/07/17 00:30:26
+! Blocked domains: 21890
 !
 0001.best
 000283.cn
@@ -140,14 +140,12 @@ sdc.10086.cn
 100ye.cn
 100ye.com
 101.132.131.225
-101.200.193.211
 101.201.227.94
 101.226.8.163
 101.35.228.105
 101.37.34.164
 101.42.13.105
 101.42.239.131
-101.43.2.116
 101.43.27.138
 101.43.49.183
 10100.com
@@ -195,9 +193,7 @@ appversion.115.com
 116.171.106.3
 116.205.242.143
 117.157.17.194
-117.50.178.197
 117.50.194.20
-117.72.103.9
 117.72.107.255
 117.72.36.133
 117.72.69.118
@@ -217,7 +213,6 @@ bj1.118pan.com
 120.25.163.165
 120.27.20.98
 120.27.235.78
-120.48.25.39
 120.77.253.240
 120.net
 analysis.120ask.com
@@ -567,7 +562,6 @@ tj.21ic.com
 21voa.com
 21xinyong.com
 21xueshu.com
-220.180.255.224
 222.187.223.34
 22222212.cn
 222aa333bb.com
@@ -960,8 +954,6 @@ m.408uo.cn
 42how.com
 42tj.com
 43.139.207.11
-43.139.228.20
-43.140.215.17
 43.143.123.40
 43.226.39.44
 stat.api.4399.com
@@ -977,17 +969,14 @@ stat.api.4399.com
 47.104.169.91
 47.104.173.216
 47.108.141.25
-47.108.162.213
 47.108.63.64
 47.109.201.173
 47.109.77.84
-47.113.217.92
 47.119.34.138
 47.120.46.210
 47.92.246.30
 47.93.28.103
 47.95.31.143
-47.96.13.97
 47.98.224.91
 471.cn
 m.479db.cn
@@ -1366,7 +1355,6 @@ shrek.6.cn
 simba.6.cn
 union.6.cn
 60.166.36.5
-60.204.169.16
 60.204.245.37
 60.22.23.50
 60608787.com
@@ -1555,12 +1543,10 @@ count.7m.com.cn
 8.131.63.6
 8.134.199.119
 8.137.114.210
-8.137.80.215
 8.138.182.17
 8.138.33.224
 8.138.47.245
 8.141.166.236
-8.154.18.17
 80065.cn
 800880.cn
 800hr.com
@@ -2059,7 +2045,6 @@ m.aeaeaa.cn
 aec8e.com
 aecichina.com
 aegt.com.cn
-aeparcels.live
 aewz.com
 af6s.icu
 afanti100.com
@@ -2632,7 +2617,6 @@ ancii.com
 andayiyuan.com
 androidblender.com
 dow.andylab.cn
-aneparcels.live
 anfang.cn
 anfeng.com
 anfensi.com
@@ -3776,7 +3760,6 @@ bjyah.com
 bjypcenglish.cn
 bjyyb.net
 bjyybao.com
-bjzhy.asia
 bjzksj.com.cn
 bjzsyx.cn
 bjzxcp.com
@@ -6003,7 +5986,6 @@ dfcfs.cn
 g1.dfcfw.com
 dfczyj.com
 dfad.dfdaily.com
-dfgdfd.asia
 dfjyw.com
 dflzm.com
 dfsglobal.cn
@@ -6747,7 +6729,6 @@ ecar168.cn
 ecarxgroup.com
 eccki.cn
 eccn.com
-ecdun.com
 echarts.cn
 echemsrc.com
 echinacities.com
@@ -8531,7 +8512,6 @@ hangjianet.com
 hangyan.co
 go.hangzhou.com.cn
 hangzhouqisheng.com
-hanhai-tiktok.com
 hankunlaw.com
 hanlanad.com
 hanlin.com
@@ -10172,7 +10152,6 @@ mqwd.iufdgi.cn
 mqwe.iufdgi.cn
 mqwf.iufdgi.cn
 iuuapp.com
-iuyoiu.asia
 ivill.cn
 ivolces.com
 ivqtrjt.cn
@@ -10936,7 +10915,6 @@ kaixinit.com
 kaixinyf.cn
 kaiyun.com
 kajicam.com
-kaka-game.com
 kakaha.cn
 789.kakamobi.cn
 short-video.kakamobi.cn
@@ -15879,7 +15857,6 @@ seccn.net
 secdoctor.com
 datacollect.secoo.com
 secrss.com
-secshow.net
 securityearth.cn
 seeed.cc
 seetao.com
@@ -16418,7 +16395,6 @@ skland.com
 m.skspt.cn
 c.skwenq.cn
 v.skwenq.cn
-skwxwh.com
 skycut.cn
 skydimo.com
 skyjh.cn
@@ -16807,7 +16783,6 @@ sqskh.com
 sqzkzyc.com
 srbzw.cn
 srcb.com
-srcgv.com
 m.srnoh.cn
 ss-tjd.com
 sscefsol.com
@@ -17629,7 +17604,6 @@ timeke.com
 timeofdate.com
 timiwc.com
 tindd.com
-tingan.asia
 tingkez.com
 tingmall.com
 tingmin.com.cn
@@ -18820,7 +18794,6 @@ wangchuang8.com
 wangchuangye.com
 wanghejun.cn
 wangluoruanjian.com
-wangluotop.com
 wanglv.vip
 mlog.wangsu.com
 wanguyou.com
