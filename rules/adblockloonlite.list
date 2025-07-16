@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/07/16 00:29:50
-#!support=21404
+#!date=2025/07/16 09:52:28
+#!support=21401
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0001.best
@@ -13654,7 +13654,6 @@ DOMAIN-SUFFIX,apps2.outfit7.com
 DOMAIN-SUFFIX,at-af.outfit7.com
 DOMAIN-SUFFIX,bidder.dsp.outfit7.com
 DOMAIN-SUFFIX,cdn-gcs.outfit7.com
-DOMAIN-SUFFIX,events-api-ak.outfit7.com
 DOMAIN-SUFFIX,events-api-dyn.outfit7.com
 DOMAIN-SUFFIX,games.outfit7.com
 DOMAIN-SUFFIX,gla-lb-us.outfit7.com
@@ -17602,7 +17601,6 @@ DOMAIN-SUFFIX,oepfsief.tyalg.cn
 DOMAIN-SUFFIX,scglcxfq.tyalg.cn
 DOMAIN-SUFFIX,ufmvqn.tyalg.cn
 DOMAIN-SUFFIX,xfqjuo.tyalg.cn
-DOMAIN-SUFFIX,yrxtgyjooj.tyalg.cn
 DOMAIN-SUFFIX,tyawwj.cn
 DOMAIN-SUFFIX,tycoc.com
 DOMAIN-SUFFIX,tydevice.com
@@ -19014,7 +19012,6 @@ DOMAIN-SUFFIX,wxjh120.com
 DOMAIN-SUFFIX,wxjswy.cn
 DOMAIN-SUFFIX,wxmein.com
 DOMAIN-SUFFIX,wxredian.com
-DOMAIN-SUFFIX,c.wxskqy.cn
 DOMAIN-SUFFIX,v.wxskqy.cn
 DOMAIN-SUFFIX,wy213.com
 DOMAIN-SUFFIX,wycfw.com
