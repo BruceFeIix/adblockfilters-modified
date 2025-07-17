@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250717163151
-! Last modified: 2025/07/17 16:31:51
-! Blocked domains: 22108
+! Version: 20250718002958
+! Last modified: 2025/07/18 00:29:58
+! Blocked domains: 22086
 ! unBlocked domains: 51
 !
 ||0001.best^
@@ -110,7 +110,6 @@
 ||0voice.com^
 ||0x5.me^
 ||1-bmo-client-login.com^
-||1.94.243.114^
 ||1.94.98.11^
 ||10000-cname.cn^
 ||10000link.com^
@@ -158,8 +157,6 @@
 ||101afrsatlarimzindirmlri.xyz^
 ||101weiqi.com^
 ||102jilipark.com^
-||106.14.170.107^
-||106.15.224.147^
 ||107788.com^
 ||adm.10jqka.com.cn^
 ||bbsclick.10jqka.com.cn^
@@ -177,7 +174,6 @@
 ||112.33.27.73^
 ||oss-asq-static.11222.cn^
 ||113.31.111.76^
-||113.45.4.235^
 ||113.98.201.248^
 ||11315.com^
 ||1133.cc^
@@ -193,17 +189,14 @@
 ||114piaowu.com^
 ||114study.com^
 ||115.159.149.113^
-||115.159.71.204^
 ||115.58.80.106^
 ||appversion.115.com^
 ||1156.com^
 ||116.171.106.3^
 ||116.205.242.143^
 ||117.157.17.194^
-||117.50.178.197^
 ||117.50.194.20^
 ||117.72.107.255^
-||117.72.206.39^
 ||117.72.36.133^
 ||117.72.69.118^
 ||117.72.70.169^
@@ -214,13 +207,10 @@
 ||11888vip.cn^
 ||118hua.com^
 ||bj1.118pan.com^
-||119.45.29.172^
-||119.91.203.199^
 ||119.news^
 ||1190119.com^
 ||120.25.163.165^
 ||120.27.20.98^
-||120.46.212.33^
 ||120.77.253.240^
 ||120.net^
 ||analysis.120ask.com^
@@ -236,7 +226,6 @@
 ||121.43.104.75^
 ||1212.com^
 ||121ask.com^
-||122.51.218.18^
 ||12291.com^
 ||122cha.com^
 ||123.57.166.174^
@@ -312,7 +301,6 @@
 ||139.159.155.204^
 ||139.196.237.171^
 ||139.198.15.223^
-||139.9.129.103^
 ||ad.mcloud.139.com^
 ||1391.com^
 ||139130.com^
@@ -885,11 +873,9 @@
 ||38zu.cn^
 ||39.100.33.142^
 ||39.103.217.92^
-||39.103.236.200^
 ||39.103.58.78^
 ||39.104.73.194^
 ||39.105.31.193^
-||39.107.85.83^
 ||39.99.235.220^
 ||abody.39.net^
 ||app-g.39.net^
@@ -993,19 +979,15 @@
 ||47.108.141.25^
 ||47.108.162.213^
 ||47.108.63.64^
-||47.109.201.173^
 ||47.109.77.84^
-||47.109.90.134^
 ||47.109.93.252^
 ||47.113.217.92^
 ||47.119.34.138^
-||47.120.13.85^
 ||47.120.46.210^
 ||47.120.48.100^
 ||47.121.24.204^
 ||47.122.20.70^
 ||47.92.246.30^
-||47.93.28.103^
 ||47.98.224.91^
 ||471.cn^
 ||m.479db.cn^
@@ -1383,7 +1365,6 @@
 ||union.6.cn^
 ||60.166.36.5^
 ||60.204.245.37^
-||60.205.183.232^
 ||60.22.23.50^
 ||60608787.com^
 ||607.tv^
@@ -1573,11 +1554,9 @@
 ||8.131.63.6^
 ||8.134.128.115^
 ||8.134.199.119^
-||8.137.80.215^
 ||8.138.182.17^
 ||8.138.33.224^
 ||8.138.47.245^
-||8.140.239.162^
 ||8.153.97.202^
 ||8.154.18.17^
 ||80065.cn^
@@ -1595,7 +1574,6 @@
 ||80w19v.cn^
 ||81.69.43.28^
 ||81.70.85.113^
-||81.71.64.78^
 ||81265.com^
 ||m1.81312.com^
 ||8158.com^
