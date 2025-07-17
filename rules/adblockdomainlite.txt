@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250717003026
-! Last modified: 2025/07/17 00:30:26
-! Blocked domains: 21890
+! Version: 20250717095256
+! Last modified: 2025/07/17 09:52:56
+! Blocked domains: 21882
 !
 0001.best
 000283.cn
@@ -139,14 +139,13 @@ sdc.10086.cn
 100xgj.com
 100ye.cn
 100ye.com
-101.132.131.225
+101.200.193.211
 101.201.227.94
-101.226.8.163
 101.35.228.105
 101.37.34.164
 101.42.13.105
 101.42.239.131
-101.43.27.138
+101.43.2.116
 101.43.49.183
 10100.com
 1010pic.com
@@ -171,11 +170,9 @@ soft.110route.com
 112.33.27.73
 oss-asq-static.11222.cn
 113.31.111.76
-113.46.198.202
 113.98.201.248
 11315.com
 1133.cc
-114.55.100.165
 114.55.106.136
 114.fm
 11455.com
@@ -193,6 +190,7 @@ appversion.115.com
 116.171.106.3
 116.205.242.143
 117.157.17.194
+117.50.178.197
 117.50.194.20
 117.72.107.255
 117.72.36.133
@@ -212,7 +210,6 @@ bj1.118pan.com
 11bqg.com
 120.25.163.165
 120.27.20.98
-120.27.235.78
 120.77.253.240
 120.net
 analysis.120ask.com
@@ -310,7 +307,6 @@ d.14yaa.com
 1503.net
 m.1518.com
 152.136.140.85
-152.136.159.25
 1527ego.com
 15386.cn
 15558.cn
@@ -440,7 +436,6 @@ vstlog.17usoft.com
 17zheng.cn
 17zzz.cn
 18.cn
-180.76.244.133
 1816soso.com
 eezdx.erc.18183.com
 img1.18183.com
@@ -953,9 +948,9 @@ m.408uo.cn
 426g.com
 42how.com
 42tj.com
-43.139.207.11
+43.139.228.20
+43.140.215.17
 43.143.123.40
-43.226.39.44
 stat.api.4399.com
 4399sy.com
 43gw.cn
@@ -963,20 +958,20 @@ stat.api.4399.com
 45fan.com
 45qun.com
 46ly.com
-47.101.187.219
 47.101.206.165
 47.102.209.177
 47.104.169.91
 47.104.173.216
 47.108.141.25
+47.108.162.213
 47.108.63.64
 47.109.201.173
 47.109.77.84
+47.113.217.92
 47.119.34.138
 47.120.46.210
 47.92.246.30
 47.93.28.103
-47.95.31.143
 47.98.224.91
 471.cn
 m.479db.cn
@@ -1172,6 +1167,7 @@ shouliang.52lvgucci.com
 52songshu.com
 adm.52swine.com
 52tt.com
+52wmb.com
 52xiyou.com
 52xnjd.com
 api.52youtu.com
@@ -1294,7 +1290,6 @@ analytics.58pic.com
 m.58xs.tw
 58xwz.cn
 58zhuangxiu.cn
-59.110.92.49
 59.59.6.86
 591yz.com
 592skins.com
@@ -1542,11 +1537,11 @@ count.7m.com.cn
 7ywl.com
 8.131.63.6
 8.134.199.119
-8.137.114.210
+8.137.80.215
 8.138.182.17
 8.138.33.224
 8.138.47.245
-8.141.166.236
+8.154.18.17
 80065.cn
 800880.cn
 800hr.com
@@ -5433,7 +5428,6 @@ crecg.com
 creditsailing.com
 creprice.cn
 cresqoirz.com
-crhqj.cn
 cric.cn
 crionline.cn
 crlsxny.xyz
@@ -7250,7 +7244,6 @@ fglobal.cn
 trackings-nexarium.fglzt.cn
 fgo.wiki
 fgxhm.cn
-fgxyp.cn
 fh21.com
 fheb.cn
 c.fhhvdzr.cn
@@ -7809,7 +7802,6 @@ gaspeedup.com
 gayeah.cn
 gb686.cn
 gbliuxue.com
-gbllt.cn
 gbs.cn
 gbw114.com
 gcbflvx.cn
@@ -7914,7 +7906,6 @@ zxcs.ggwan.com
 ggweb.net
 ggzha.com
 shqdown.ggzuhao.com
-gh-hr.cn
 ghac.cn
 ghdoor.com
 eadnpsn.ghneq.cn
@@ -15857,6 +15848,7 @@ seccn.net
 secdoctor.com
 datacollect.secoo.com
 secrss.com
+secshow.net
 securityearth.cn
 seeed.cc
 seetao.com
