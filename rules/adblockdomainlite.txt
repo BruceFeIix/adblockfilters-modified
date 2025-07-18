@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250718002958
-! Last modified: 2025/07/18 00:29:58
-! Blocked domains: 22086
+! Version: 20250718095447
+! Last modified: 2025/07/18 09:54:47
+! Blocked domains: 22063
 !
 0001.best
 000283.cn
@@ -109,6 +109,7 @@ m.0uk9e.cn
 0voice.com
 0x5.me
 1-bmo-client-login.com
+1.94.243.114
 1.94.98.11
 10000-cname.cn
 10000link.com
@@ -148,7 +149,6 @@ sdc.10086.cn
 101.35.228.105
 101.37.34.164
 101.42.13.105
-101.42.239.131
 101.43.2.116
 101.43.49.183
 10100.com
@@ -188,16 +188,16 @@ oss-asq-static.11222.cn
 114piaowu.com
 114study.com
 115.159.149.113
-115.58.80.106
+115.159.71.204
 appversion.115.com
 1156.com
 116.171.106.3
 116.205.242.143
 117.157.17.194
+117.50.178.197
 117.50.194.20
 117.72.107.255
 117.72.36.133
-117.72.69.118
 117.72.70.169
 117trip.com
 118.178.133.241
@@ -206,6 +206,7 @@ appversion.115.com
 11888vip.cn
 118hua.com
 bj1.118pan.com
+119.91.203.199
 119.news
 1190119.com
 120.25.163.165
@@ -221,7 +222,6 @@ scws.120ask.com
 x.120ask.com
 120askimages.com
 120jj.cn
-121.36.27.251
 121.43.104.75
 1212.com
 121ask.com
@@ -282,7 +282,6 @@ pg-ad-b1.nosdn.127.net
 wanproxy.127.net
 yt-adp.nosdn.127.net
 127z.com
-129.204.254.108
 12dzx.com
 12i.cn
 12tiku.com
@@ -300,6 +299,7 @@ yt-adp.nosdn.127.net
 139.159.155.204
 139.196.237.171
 139.198.15.223
+139.9.129.103
 ad.mcloud.139.com
 1391.com
 139130.com
@@ -414,7 +414,6 @@ s.17173cdn.com
 17275.com
 17384.com
 analytics.173funny.com
-173jiasu.cn
 17500.cn
 1755.com
 175bar.com
@@ -445,7 +444,6 @@ oss.17ww.vip
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.113.2.255
 182.92.99.95
 182682.xyz
 183im.com
@@ -872,9 +870,11 @@ m.38xs.com
 38zu.cn
 39.100.33.142
 39.103.217.92
+39.103.236.200
 39.103.58.78
 39.104.73.194
 39.105.31.193
+39.107.85.83
 39.99.235.220
 abody.39.net
 app-g.39.net
@@ -960,9 +960,7 @@ m.408uo.cn
 426g.com
 42how.com
 42tj.com
-43.139.185.214
 43.139.228.20
-43.140.215.17
 43.143.123.40
 stat.api.4399.com
 4399sy.com
@@ -976,17 +974,15 @@ stat.api.4399.com
 47.104.169.91
 47.104.173.216
 47.108.141.25
-47.108.162.213
 47.108.63.64
 47.109.77.84
-47.109.93.252
 47.113.217.92
 47.119.34.138
 47.120.46.210
-47.120.48.100
 47.121.24.204
 47.122.20.70
 47.92.246.30
+47.93.28.103
 47.98.224.91
 471.cn
 m.479db.cn
@@ -1551,11 +1547,11 @@ count.7m.com.cn
 7ywl.com
 8.130.191.106
 8.131.63.6
-8.134.128.115
 8.134.199.119
 8.138.182.17
 8.138.33.224
 8.138.47.245
+8.140.239.162
 8.153.97.202
 8.154.18.17
 80065.cn
@@ -1573,6 +1569,7 @@ www.80ke.com
 80w19v.cn
 81.69.43.28
 81.70.85.113
+81.71.64.78
 81265.com
 m1.81312.com
 8158.com
@@ -1827,7 +1824,6 @@ ccxxn.999xs.com
 99cfw.com
 99cha.com
 ad.99jiasu.com
-99jiuying.com
 99maiyou.com
 p.99mssj.com
 9cf.net
@@ -2862,7 +2858,6 @@ track.audiobuy.cc
 aujcdyw.cn
 aukeyit.com
 aunapi.com
-aupiosta.top
 aupost-adams.today
 aupost-issues.today
 aupost-tracksz.today
@@ -3016,7 +3011,6 @@ tracking.babytree.com
 aimg.babytreeimg.com
 babyzone.cn
 bacaoo.com
-baccredoeco.com
 baccucmei.com
 bacifhyeo.com
 bacoueysbu.com
@@ -5952,7 +5946,6 @@ ddbuwo.cn
 ddc888.com
 ddcdn.com
 ddddns.net
-dddzzd.com
 ddfjh213.cn
 ddgl.cn
 ddimg.mobi
@@ -6052,7 +6045,6 @@ dgbei.com
 dgboiler.cn
 dgbte.com
 dglangxin.com
-dglbboftec.com.cn
 dglvc.com
 hopjftetqc.dgrh3.cn
 qtxjsverzn.dgrh3.cn
@@ -7473,7 +7465,6 @@ fiwyjar.cn
 f.fj95560.com
 fjbc.cn
 fjdvzx.cn
-fjgycw.cn
 fjhqch.com
 fjnyxb.cn
 fjsbwj.cn
@@ -7484,7 +7475,6 @@ fjxxal.com
 fjzimaoqu.cn
 fkcp.cn
 datareport.fkw.com
-flach.cn
 flash.cn
 flashgene.com
 news.flashget.com
@@ -7803,7 +7793,6 @@ gahejiao.com
 gainifyads.com
 gal.cc
 galaxywind.com
-galeden.cn
 galonchina.cc
 galsanggame.com
 game2.cn
@@ -8734,7 +8723,6 @@ hechaocheng.cn
 hediao.net
 ad.hefei.cc
 hefeiwangzhanseo.cn
-hefengzt.com
 hehezhou.cn
 hehuiyan.com
 hehuren.cn
@@ -9329,7 +9317,6 @@ huanqiucaijing.cn
 huanqiuic.com
 ads.huantest.com
 huanve.com
-huanyamall.com
 huaon.com
 huapulab.com
 huaqikonggu.com.cn
@@ -9590,7 +9577,6 @@ qiyeb.iaskbus.com
 wneia.iaskhot.com
 iaspx.cn
 iautos.cn
-ib88.cn
 ibabylabs.net
 ibafnw.cn
 ibangkf.com
@@ -10343,8 +10329,6 @@ jbzj.com
 jc001.cn
 jc35.com
 jccee.com
-jccgty.cn
-jcchunya.cn
 jcimjournal.com
 jcku.com
 vs.wshareit.com.b.galileo.jcloud-cdn.com
@@ -10620,7 +10604,6 @@ jinwafang.com
 b.jinxiutengzhou.cn
 in.jinxiutengzhou.cn
 jiongxiao.com
-jipezy.cn
 1.jiqie.cn
 jiqizhixin.com
 jirou.com
@@ -12642,7 +12625,6 @@ mengou.net
 mengtaipharmacy.com
 mengyugame.com
 menlei.com
-menokas.com
 mentamob.com
 meooe.com
 mepai.me
@@ -14893,7 +14875,6 @@ qixintong.cn
 qixiu88.com
 qixiuzs.cn
 qixiwangluo.com
-qixl.cn
 qiyegongqiu1.qiyegongqiu.com
 qiyeit.com.cn
 api.cupid.qiyi.com
@@ -15780,7 +15761,6 @@ saikr.com
 sailungroup.com
 saitef.cn
 sakesi.club
-salat.cn
 salechaty.com
 salesdish.com
 salesmartly.com
@@ -15842,7 +15822,6 @@ sat0.net
 saxysec.com
 m.sbaoe.com
 sbird.xyz
-sbisecr.cn
 sbkk8.cn
 sboite.cn
 pay.sboot.cn
@@ -16427,7 +16406,6 @@ woocall.sina.com.cn
 pfp.sina.net
 sinacloud.net
 adimg.gslb.sinaedge.com
-sinahealth.com.cn
 ad.us.sinaimg.cn
 d1.sinaimg.cn
 d3.sinaimg.cn
@@ -19205,7 +19183,6 @@ whaee.com
 whale123.com
 whalecloud.com
 whb.cn
-whbmoapp.com
 whbmy.com
 whdxky.com
 xapp-ad.yawentv.com.whecloud.com
