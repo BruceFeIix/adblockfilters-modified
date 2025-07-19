@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250719162846
-! Last modified: 2025/07/19 16:28:46
-! Blocked domains: 21774
+! Version: 20250720002703
+! Last modified: 2025/07/20 00:27:03
+! Blocked domains: 21754
 ! unBlocked domains: 51
 !
 ||0001.best^
@@ -108,7 +108,6 @@
 ||0voice.com^
 ||0x5.me^
 ||1.94.183.238^
-||1.94.243.114^
 ||10000-cname.cn^
 ||10000link.com^
 ||10000xing.cn^
@@ -144,10 +143,8 @@
 ||100ye.cn^
 ||100ye.com^
 ||101.126.11.168^
-||101.132.131.225^
 ||101.133.229.117^
 ||101.201.227.94^
-||101.201.49.60^
 ||101.35.228.105^
 ||101.37.34.164^
 ||101.43.49.183^
@@ -191,19 +188,15 @@
 ||114study.com^
 ||115.159.149.113^
 ||115.159.71.204^
-||115.238.252.51^
 ||115.55.201.4^
 ||appversion.115.com^
 ||1156.com^
 ||116.171.106.3^
 ||116.205.242.143^
 ||117.157.17.194^
-||117.50.178.197^
 ||117.50.194.20^
-||117.72.103.9^
 ||117.72.107.255^
 ||117.72.36.133^
-||117.72.69.118^
 ||117.72.70.169^
 ||117trip.com^
 ||118.178.133.241^
@@ -214,7 +207,6 @@
 ||11888vip.cn^
 ||118hua.com^
 ||bj1.118pan.com^
-||119.91.203.199^
 ||119.news^
 ||1190119.com^
 ||120.24.241.109^
@@ -258,7 +250,6 @@
 ||bdad.123pan.cn^
 ||123u.com^
 ||123wenmi.com^
-||124.222.129.148^
 ||124.70.158.53^
 ||124xz.com^
 ||125.la^
@@ -295,7 +286,6 @@
 ||wanproxy.127.net^
 ||yt-adp.nosdn.127.net^
 ||127z.com^
-||129.204.254.108^
 ||12dzx.com^
 ||12i.cn^
 ||12tiku.com^
@@ -967,7 +957,6 @@
 ||43.138.22.149^
 ||43.139.185.214^
 ||43.139.228.20^
-||43.140.215.17^
 ||43.143.123.40^
 ||43.226.39.44^
 ||stat.api.4399.com^
@@ -984,16 +973,11 @@
 ||47.104.173.216^
 ||47.108.141.25^
 ||47.108.162.213^
-||47.108.63.64^
 ||47.109.201.173^
 ||47.109.77.84^
-||47.116.197.65^
 ||47.119.34.138^
 ||47.120.48.100^
-||47.121.24.204^
 ||47.92.246.30^
-||47.93.28.103^
-||47.98.151.171^
 ||47.98.224.91^
 ||471.cn^
 ||m.479db.cn^
@@ -1559,7 +1543,6 @@
 ||7y7.com^
 ||7yan.net^
 ||7ywl.com^
-||8.130.191.106^
 ||8.131.63.6^
 ||8.134.128.115^
 ||8.134.199.119^
@@ -9418,7 +9401,6 @@
 ||wneia.iaskhot.com^
 ||iaspx.cn^
 ||iautos.cn^
-||ib88.cn^
 ||ibabylabs.net^
 ||ibafnw.cn^
 ||ibangkf.com^
@@ -10165,7 +10147,6 @@
 ||jc35.com^
 ||jccee.com^
 ||jccgty.cn^
-||jcchunya.cn^
 ||jcimjournal.com^
 ||jcku.com^
 ||vs.wshareit.com.b.galileo.jcloud-cdn.com^
@@ -10547,7 +10528,6 @@
 ||jmst.org^
 ||jmstatic.com^
 ||jmtv.cn^
-||jmyjj.com^
 ||jmzhongda.cn^
 ||jn80.com^
 ||jnbhsm.cn^

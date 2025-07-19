@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250719162846
-# Last modified: 2025/07/19 16:28:46
-# Blocked domains: 21774
+# Version: 20250720002703
+# Last modified: 2025/07/20 00:27:03
+# Blocked domains: 21754
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -122,7 +122,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0voice.com
 0.0.0.0	0x5.me
 0.0.0.0	1.94.183.238
-0.0.0.0	1.94.243.114
 0.0.0.0	10000-cname.cn
 0.0.0.0	10000link.com
 0.0.0.0	10000xing.cn
@@ -158,10 +157,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	100ye.cn
 0.0.0.0	100ye.com
 0.0.0.0	101.126.11.168
-0.0.0.0	101.132.131.225
 0.0.0.0	101.133.229.117
 0.0.0.0	101.201.227.94
-0.0.0.0	101.201.49.60
 0.0.0.0	101.35.228.105
 0.0.0.0	101.37.34.164
 0.0.0.0	101.43.49.183
@@ -205,19 +202,15 @@ ff02::3	ip6-allhosts
 0.0.0.0	114study.com
 0.0.0.0	115.159.149.113
 0.0.0.0	115.159.71.204
-0.0.0.0	115.238.252.51
 0.0.0.0	115.55.201.4
 0.0.0.0	appversion.115.com
 0.0.0.0	1156.com
 0.0.0.0	116.171.106.3
 0.0.0.0	116.205.242.143
 0.0.0.0	117.157.17.194
-0.0.0.0	117.50.178.197
 0.0.0.0	117.50.194.20
-0.0.0.0	117.72.103.9
 0.0.0.0	117.72.107.255
 0.0.0.0	117.72.36.133
-0.0.0.0	117.72.69.118
 0.0.0.0	117.72.70.169
 0.0.0.0	117trip.com
 0.0.0.0	118.178.133.241
@@ -228,7 +221,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	11888vip.cn
 0.0.0.0	118hua.com
 0.0.0.0	bj1.118pan.com
-0.0.0.0	119.91.203.199
 0.0.0.0	119.news
 0.0.0.0	1190119.com
 0.0.0.0	120.24.241.109
@@ -272,7 +264,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdad.123pan.cn
 0.0.0.0	123u.com
 0.0.0.0	123wenmi.com
-0.0.0.0	124.222.129.148
 0.0.0.0	124.70.158.53
 0.0.0.0	124xz.com
 0.0.0.0	125.la
@@ -309,7 +300,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wanproxy.127.net
 0.0.0.0	yt-adp.nosdn.127.net
 0.0.0.0	127z.com
-0.0.0.0	129.204.254.108
 0.0.0.0	12dzx.com
 0.0.0.0	12i.cn
 0.0.0.0	12tiku.com
@@ -981,7 +971,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	43.138.22.149
 0.0.0.0	43.139.185.214
 0.0.0.0	43.139.228.20
-0.0.0.0	43.140.215.17
 0.0.0.0	43.143.123.40
 0.0.0.0	43.226.39.44
 0.0.0.0	stat.api.4399.com
@@ -998,16 +987,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.104.173.216
 0.0.0.0	47.108.141.25
 0.0.0.0	47.108.162.213
-0.0.0.0	47.108.63.64
 0.0.0.0	47.109.201.173
 0.0.0.0	47.109.77.84
-0.0.0.0	47.116.197.65
 0.0.0.0	47.119.34.138
 0.0.0.0	47.120.48.100
-0.0.0.0	47.121.24.204
 0.0.0.0	47.92.246.30
-0.0.0.0	47.93.28.103
-0.0.0.0	47.98.151.171
 0.0.0.0	47.98.224.91
 0.0.0.0	471.cn
 0.0.0.0	m.479db.cn
@@ -1573,7 +1557,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	7y7.com
 0.0.0.0	7yan.net
 0.0.0.0	7ywl.com
-0.0.0.0	8.130.191.106
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.128.115
 0.0.0.0	8.134.199.119
@@ -9432,7 +9415,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wneia.iaskhot.com
 0.0.0.0	iaspx.cn
 0.0.0.0	iautos.cn
-0.0.0.0	ib88.cn
 0.0.0.0	ibabylabs.net
 0.0.0.0	ibafnw.cn
 0.0.0.0	ibangkf.com
@@ -10179,7 +10161,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jc35.com
 0.0.0.0	jccee.com
 0.0.0.0	jccgty.cn
-0.0.0.0	jcchunya.cn
 0.0.0.0	jcimjournal.com
 0.0.0.0	jcku.com
 0.0.0.0	vs.wshareit.com.b.galileo.jcloud-cdn.com
@@ -10561,7 +10542,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jmst.org
 0.0.0.0	jmstatic.com
 0.0.0.0	jmtv.cn
-0.0.0.0	jmyjj.com
 0.0.0.0	jmzhongda.cn
 0.0.0.0	jn80.com
 0.0.0.0	jnbhsm.cn
