@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250720162828
-! Last modified: 2025/07/20 16:28:28
-! Blocked domains: 21870
+! Version: 20250721002715
+! Last modified: 2025/07/21 00:27:15
+! Blocked domains: 21855
 !
 0001.best
 000283.cn
@@ -56,7 +56,6 @@ go.10086.cn
 huodong.feixin.10086.cn
 sdc.10086.cn
 101.126.11.168
-101.133.229.117
 101.200.193.211
 101.201.227.94
 101.226.8.163
@@ -74,30 +73,24 @@ vaserviece.10jqka.com.cn
 v.110route.cn
 ytx-file.110route.cn
 soft.110route.com
-112.227.26.133
 112.33.27.73
 oss-asq-static.11222.cn
 113.31.111.76
-113.98.201.248
 114.55.100.165
 114.55.106.136
 115.159.149.113
 115.159.71.204
 115.238.252.51
-115.55.201.4
 appversion.115.com
 116.171.106.3
 116.205.242.143
 117.157.17.194
-117.50.178.197
 117.50.194.20
 117.72.103.9
 117.72.107.255
 117.72.36.133
-117.72.69.118
 117.72.70.169
 118.178.133.241
-118.24.117.221
 118.25.85.198
 118.26.174.163
 bj1.118pan.com
@@ -170,7 +163,6 @@ yt-adp.nosdn.127.net
 139.196.237.171
 139.198.15.223
 139.224.135.193
-139.9.129.103
 ad.mcloud.139.com
 1391.com
 139130.com
@@ -750,7 +742,6 @@ m.38xs.com
 39.103.58.78
 39.104.73.194
 39.105.31.193
-39.107.85.83
 39.99.235.220
 abody.39.net
 app-g.39.net
@@ -855,9 +846,7 @@ stat.api.4399.com
 47.108.63.64
 47.109.151.70
 47.109.77.84
-47.113.217.92
 47.119.34.138
-47.120.13.85
 47.120.46.210
 47.92.246.30
 47.93.28.103
@@ -867,7 +856,6 @@ stat.api.4399.com
 m.479db.cn
 p2link.483n.com
 48phjoin.com
-49.232.56.252
 49.234.48.162
 4a9.cn
 4anet.com
@@ -1183,7 +1171,6 @@ analytics.58pic.com
 m.58xs.tw
 58xwz.cn
 58zhuangxiu.cn
-59.59.6.86
 591yz.com
 592skins.com
 595image.com
@@ -1241,7 +1228,6 @@ shrek.6.cn
 simba.6.cn
 union.6.cn
 60.166.36.5
-60.204.245.37
 60.205.183.232
 60.22.23.50
 600912.com
@@ -1440,7 +1426,6 @@ count.7m.com.cn
 7y7.com
 7yan.net
 7ywl.com
-8.130.191.106
 8.131.63.6
 8.134.199.119
 8.137.114.210
