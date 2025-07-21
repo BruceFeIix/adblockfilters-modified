@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250721002715
-# Last modified: 2025/07/21 00:27:15
-# Blocked domains: 21855
+# Version: 20250721095843
+# Last modified: 2025/07/21 09:58:43
+# Blocked domains: 21847
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -76,10 +76,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.226.8.163
 0.0.0.0	101.35.228.105
 0.0.0.0	101.37.34.164
-0.0.0.0	101.42.13.105
 0.0.0.0	101.42.239.131
 0.0.0.0	101.43.2.116
-0.0.0.0	101.43.27.138
 0.0.0.0	101.43.49.183
 0.0.0.0	adm.10jqka.com.cn
 0.0.0.0	bbsclick.10jqka.com.cn
@@ -88,14 +86,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	v.110route.cn
 0.0.0.0	ytx-file.110route.cn
 0.0.0.0	soft.110route.com
+0.0.0.0	112.227.26.133
 0.0.0.0	112.33.27.73
 0.0.0.0	oss-asq-static.11222.cn
 0.0.0.0	113.31.111.76
-0.0.0.0	114.55.100.165
+0.0.0.0	113.98.201.248
 0.0.0.0	114.55.106.136
 0.0.0.0	115.159.149.113
 0.0.0.0	115.159.71.204
-0.0.0.0	115.238.252.51
 0.0.0.0	appversion.115.com
 0.0.0.0	116.171.106.3
 0.0.0.0	116.205.242.143
@@ -119,7 +117,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.120ask.com
 0.0.0.0	scws.120ask.com
 0.0.0.0	x.120ask.com
-0.0.0.0	121.36.27.251
 0.0.0.0	121.36.93.103
 0.0.0.0	121.43.104.75
 0.0.0.0	123.57.166.174
@@ -175,9 +172,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	1377.com
 0.0.0.0	138job.com
 0.0.0.0	139.159.155.204
-0.0.0.0	139.196.237.171
 0.0.0.0	139.198.15.223
 0.0.0.0	139.224.135.193
+0.0.0.0	139.9.129.103
 0.0.0.0	ad.mcloud.139.com
 0.0.0.0	1391.com
 0.0.0.0	139130.com
@@ -857,11 +854,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.104.169.91
 0.0.0.0	47.104.173.216
 0.0.0.0	47.108.141.25
-0.0.0.0	47.108.162.213
-0.0.0.0	47.108.63.64
 0.0.0.0	47.109.151.70
 0.0.0.0	47.109.77.84
 0.0.0.0	47.119.34.138
+0.0.0.0	47.120.13.85
 0.0.0.0	47.120.46.210
 0.0.0.0	47.92.246.30
 0.0.0.0	47.93.28.103
@@ -871,6 +867,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.479db.cn
 0.0.0.0	p2link.483n.com
 0.0.0.0	48phjoin.com
+0.0.0.0	49.232.56.252
 0.0.0.0	49.234.48.162
 0.0.0.0	4a9.cn
 0.0.0.0	4anet.com
@@ -1186,6 +1183,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.58xs.tw
 0.0.0.0	58xwz.cn
 0.0.0.0	58zhuangxiu.cn
+0.0.0.0	59.59.6.86
 0.0.0.0	591yz.com
 0.0.0.0	592skins.com
 0.0.0.0	595image.com
@@ -1243,7 +1241,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	simba.6.cn
 0.0.0.0	union.6.cn
 0.0.0.0	60.166.36.5
-0.0.0.0	60.205.183.232
+0.0.0.0	60.204.245.37
 0.0.0.0	60.22.23.50
 0.0.0.0	600912.com
 0.0.0.0	60608787.com
@@ -1447,7 +1445,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.138.182.17
 0.0.0.0	8.138.33.224
 0.0.0.0	8.140.239.162
-0.0.0.0	8.141.166.236
 0.0.0.0	8.154.18.17
 0.0.0.0	80065.cn
 0.0.0.0	800880.cn
@@ -2732,7 +2729,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	aurorapush.cn
 0.0.0.0	ausaas.cn
 0.0.0.0	ausao.cn
-0.0.0.0	ausparcelsnow.live
 0.0.0.0	ausservice.today
 0.0.0.0	somni.aussiespecialist.cn
 0.0.0.0	somni.australia.cn
@@ -5986,7 +5982,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dkewl.com
 0.0.0.0	dkhhc.com
 0.0.0.0	dkqapp.cn
-0.0.0.0	dksgo7.top
 0.0.0.0	dktad.com
 0.0.0.0	dku51.com
 0.0.0.0	dl-sh.com
@@ -16227,7 +16222,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pfp.sina.net
 0.0.0.0	sinacloud.net
 0.0.0.0	adimg.gslb.sinaedge.com
-0.0.0.0	sinahealth.com.cn
 0.0.0.0	ad.us.sinaimg.cn
 0.0.0.0	d1.sinaimg.cn
 0.0.0.0	d3.sinaimg.cn
@@ -16384,7 +16378,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	res-ga.smzdm.com
 0.0.0.0	shence-import.smzdm.com
 0.0.0.0	smzy.com
-0.0.0.0	sn3iau.top
 0.0.0.0	snail.com
 0.0.0.0	errortracking.snapp.site
 0.0.0.0	push.snappea.com
@@ -21540,7 +21533,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zinoro.cn
 0.0.0.0	zio8.icu
 0.0.0.0	zioe.com.cn
-0.0.0.0	ziraatonay.vip
 0.0.0.0	ziroom.com
 0.0.0.0	zisha.com
 0.0.0.0	zitijia.com

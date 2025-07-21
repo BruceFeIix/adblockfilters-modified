@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250721002715
-! Last modified: 2025/07/21 00:27:15
-! Blocked domains: 21855
+! Version: 20250721095843
+! Last modified: 2025/07/21 09:58:43
+! Blocked domains: 21847
 !
 0001.best
 000283.cn
@@ -61,10 +61,8 @@ sdc.10086.cn
 101.226.8.163
 101.35.228.105
 101.37.34.164
-101.42.13.105
 101.42.239.131
 101.43.2.116
-101.43.27.138
 101.43.49.183
 adm.10jqka.com.cn
 bbsclick.10jqka.com.cn
@@ -73,14 +71,14 @@ vaserviece.10jqka.com.cn
 v.110route.cn
 ytx-file.110route.cn
 soft.110route.com
+112.227.26.133
 112.33.27.73
 oss-asq-static.11222.cn
 113.31.111.76
-114.55.100.165
+113.98.201.248
 114.55.106.136
 115.159.149.113
 115.159.71.204
-115.238.252.51
 appversion.115.com
 116.171.106.3
 116.205.242.143
@@ -104,7 +102,6 @@ ip.120ask.com
 log.120ask.com
 scws.120ask.com
 x.120ask.com
-121.36.27.251
 121.36.93.103
 121.43.104.75
 123.57.166.174
@@ -160,9 +157,9 @@ yt-adp.nosdn.127.net
 1377.com
 138job.com
 139.159.155.204
-139.196.237.171
 139.198.15.223
 139.224.135.193
+139.9.129.103
 ad.mcloud.139.com
 1391.com
 139130.com
@@ -842,11 +839,10 @@ stat.api.4399.com
 47.104.169.91
 47.104.173.216
 47.108.141.25
-47.108.162.213
-47.108.63.64
 47.109.151.70
 47.109.77.84
 47.119.34.138
+47.120.13.85
 47.120.46.210
 47.92.246.30
 47.93.28.103
@@ -856,6 +852,7 @@ stat.api.4399.com
 m.479db.cn
 p2link.483n.com
 48phjoin.com
+49.232.56.252
 49.234.48.162
 4a9.cn
 4anet.com
@@ -1171,6 +1168,7 @@ analytics.58pic.com
 m.58xs.tw
 58xwz.cn
 58zhuangxiu.cn
+59.59.6.86
 591yz.com
 592skins.com
 595image.com
@@ -1228,7 +1226,7 @@ shrek.6.cn
 simba.6.cn
 union.6.cn
 60.166.36.5
-60.205.183.232
+60.204.245.37
 60.22.23.50
 600912.com
 60608787.com
@@ -1432,7 +1430,6 @@ count.7m.com.cn
 8.138.182.17
 8.138.33.224
 8.140.239.162
-8.141.166.236
 8.154.18.17
 80065.cn
 800880.cn
@@ -2717,7 +2714,6 @@ aurora-wordpress.com
 aurorapush.cn
 ausaas.cn
 ausao.cn
-ausparcelsnow.live
 ausservice.today
 somni.aussiespecialist.cn
 somni.australia.cn
@@ -5971,7 +5967,6 @@ dker.cn
 dkewl.com
 dkhhc.com
 dkqapp.cn
-dksgo7.top
 dktad.com
 dku51.com
 dl-sh.com
@@ -16212,7 +16207,6 @@ woocall.sina.com.cn
 pfp.sina.net
 sinacloud.net
 adimg.gslb.sinaedge.com
-sinahealth.com.cn
 ad.us.sinaimg.cn
 d1.sinaimg.cn
 d3.sinaimg.cn
@@ -16369,7 +16363,6 @@ logs-api.smzdm.com
 res-ga.smzdm.com
 shence-import.smzdm.com
 smzy.com
-sn3iau.top
 snail.com
 errortracking.snapp.site
 push.snappea.com
@@ -21525,7 +21518,6 @@ ziniao.com
 zinoro.cn
 zio8.icu
 zioe.com.cn
-ziraatonay.vip
 ziroom.com
 zisha.com
 zitijia.com
