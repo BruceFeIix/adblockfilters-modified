@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250724003058
-! Last modified: 2025/07/24 00:30:58
-! Blocked domains: 22752
+! Version: 20250724095321
+! Last modified: 2025/07/24 09:53:21
+! Blocked domains: 22744
 ! unBlocked domains: 51
 !
 ||0001.best^
@@ -107,7 +107,6 @@
 ||m.0uk9e.cn^
 ||0voice.com^
 ||0x5.me^
-||1.94.134.161^
 ||1.94.183.238^
 ||10000-cname.cn^
 ||10000link.com^
@@ -147,7 +146,6 @@
 ||101.132.131.225^
 ||101.200.193.211^
 ||101.201.227.94^
-||101.226.8.163^
 ||101.35.228.105^
 ||101.37.34.164^
 ||101.43.49.183^
@@ -155,7 +153,6 @@
 ||1010pic.com^
 ||101weiqi.com^
 ||102jilipark.com^
-||106.12.215.229^
 ||107788.com^
 ||108sq.cn^
 ||10huan.com^
@@ -203,9 +200,7 @@
 ||116cd.cn^
 ||117.157.17.194^
 ||117.50.175.19^
-||117.50.178.197^
 ||117.50.194.20^
-||117.72.103.9^
 ||117.72.107.255^
 ||117.72.206.39^
 ||117.72.36.133^
@@ -222,7 +217,6 @@
 ||119.news^
 ||1190119.com^
 ||11bqg.com^
-||120.24.241.109^
 ||120.25.163.165^
 ||120.27.235.78^
 ||120.77.253.240^
@@ -236,7 +230,7 @@
 ||x.120ask.com^
 ||120askimages.com^
 ||120jj.cn^
-||121.43.104.75^
+||121.36.93.103^
 ||1212.com^
 ||121ask.com^
 ||12291.com^
@@ -259,7 +253,7 @@
 ||bdad.123pan.cn^
 ||123u.com^
 ||123wenmi.com^
-||124.223.54.248^
+||124.222.129.148^
 ||124.70.158.53^
 ||124xz.com^
 ||12580.tv^
@@ -325,7 +319,6 @@
 ||1503.net^
 ||m.1518.com^
 ||152.136.140.85^
-||152.136.159.25^
 ||1527ego.com^
 ||15386.cn^
 ||15558.cn^
@@ -588,6 +581,7 @@
 ||21voa.com^
 ||21xinyong.com^
 ||21xueshu.com^
+||220.180.255.224^
 ||222.187.223.34^
 ||222.243.95.50^
 ||22222212.cn^
@@ -1058,6 +1052,7 @@
 ||38zu.cn^
 ||39.100.33.142^
 ||39.103.217.92^
+||39.103.236.200^
 ||39.103.58.78^
 ||39.104.73.194^
 ||39.105.31.193^
@@ -1158,6 +1153,7 @@
 ||426g.com^
 ||42how.com^
 ||42tj.com^
+||43.139.228.20^
 ||43.143.123.40^
 ||43.226.39.44^
 ||stat.api.4399.com^
@@ -1176,8 +1172,8 @@
 ||47.104.169.91^
 ||47.104.173.216^
 ||47.108.141.25^
-||47.108.162.213^
 ||47.109.151.70^
+||47.109.201.173^
 ||47.109.77.84^
 ||47.116.197.65^
 ||47.119.34.138^
@@ -1193,6 +1189,7 @@
 ||m.479db.cn^
 ||p2link.483n.com^
 ||48phjoin.com^
+||49.232.159.121^
 ||49.234.48.162^
 ||49pic.com^
 ||4a9.cn^
@@ -1797,7 +1794,6 @@
 ||7y7.com^
 ||7yan.net^
 ||7ywl.com^
-||8.130.191.106^
 ||8.131.63.6^
 ||8.134.199.119^
 ||8.137.114.210^
@@ -1806,7 +1802,6 @@
 ||8.140.22.103^
 ||8.140.239.162^
 ||8.141.166.236^
-||8.154.18.17^
 ||80065.cn^
 ||800880.cn^
 ||800hr.com^
@@ -1834,7 +1829,6 @@
 ||81mp.com^
 ||81uav.cn^
 ||81zw.com^
-||82.156.190.69^
 ||82012.com^
 ||82ky.com^
 ||8315.cn^
@@ -3443,6 +3437,7 @@
 ||pcappstore.baidu.com^
 ||pcrec.baidu.com^
 ||pimlog.baidu.com^
+||plugin.mobopay.baidu.com^
 ||pos.baidu.com^
 ||ps.map.baidu.com^
 ||publish-pic-cpu.baidu.com^
@@ -6704,7 +6699,6 @@
 ||dreame.tech^
 ||dreamfull.cn^
 ||dreammeta.net^
-||drivethelife.com^
 ||drlmeng.com^
 ||dropship-clothes.com^
 ||drsbw.cn^
@@ -15573,8 +15567,6 @@
 ||omgmta1.qq.com^
 ||openapi.guanjia.qq.com^
 ||openmsf.3g.qq.com^
-||oth.eve.mdt.qq.com^
-||oth.str.mdt.qq.com^
 ||p.store.qq.com^
 ||p2p.qq.com^
 ||p2pupdate.gamedl.qq.com^
