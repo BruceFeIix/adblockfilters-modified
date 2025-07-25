@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、AdRules、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、OISD Big、DanPollock、SmartTV、HageziUltimate、1Host (Xtra)。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250725163117
-# Last modified: 2025/07/25 16:31:17
-# Blocked domains: 22786
+# Version: 20250726002932
+# Last modified: 2025/07/26 00:29:32
+# Blocked domains: 22760
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -186,7 +186,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	oss-asq-static.11222.cn
 0.0.0.0	113.31.111.76
 0.0.0.0	113.44.89.87
-0.0.0.0	113.46.198.202
 0.0.0.0	113.98.201.248
 0.0.0.0	11315.com
 0.0.0.0	114.116.18.42
@@ -211,11 +210,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	116cd.cn
 0.0.0.0	117.157.17.194
 0.0.0.0	117.50.194.20
-0.0.0.0	117.72.103.9
 0.0.0.0	117.72.107.255
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.36.133
-0.0.0.0	117.72.69.118
 0.0.0.0	117.72.70.169
 0.0.0.0	117trip.com
 0.0.0.0	118.178.133.241
@@ -231,8 +228,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	11bqg.com
 0.0.0.0	120.24.64.74
 0.0.0.0	120.25.163.165
-0.0.0.0	120.27.20.98
-0.0.0.0	120.27.235.78
 0.0.0.0	120.77.253.240
 0.0.0.0	120.net
 0.0.0.0	analysis.120ask.com
@@ -247,7 +242,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	121.43.104.75
 0.0.0.0	1212.com
 0.0.0.0	121ask.com
-0.0.0.0	122.51.218.18
 0.0.0.0	12291.com
 0.0.0.0	122cha.com
 0.0.0.0	123.57.166.174
@@ -260,9 +254,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	12348.net
 0.0.0.0	download.123cw.cn
 0.0.0.0	bdad.123pan.cn
-0.0.0.0	124.221.116.169
-0.0.0.0	124.222.129.148
-0.0.0.0	124.223.54.248
 0.0.0.0	analytics.126.com
 0.0.0.0	ir.mail.126.com
 0.0.0.0	admusicpic.music.126.net
@@ -293,7 +284,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	129.204.254.108
 0.0.0.0	139.159.155.204
 0.0.0.0	139.198.15.223
-0.0.0.0	139.224.135.193
 0.0.0.0	ad.mcloud.139.com
 0.0.0.0	14.103.234.180
 0.0.0.0	d.14yaa.com
@@ -372,7 +362,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.17le.com.cn
 0.0.0.0	vstlog.17u.cn
 0.0.0.0	vstlog.17usoft.com
-0.0.0.0	180.76.244.133
 0.0.0.0	1816soso.com
 0.0.0.0	eezdx.erc.18183.com
 0.0.0.0	img1.18183.com
@@ -1071,7 +1060,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	42how.com
 0.0.0.0	42tj.com
 0.0.0.0	43.139.207.11
-0.0.0.0	43.139.228.20
 0.0.0.0	43.143.123.40
 0.0.0.0	43.226.39.44
 0.0.0.0	stat.api.4399.com
@@ -1093,18 +1081,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.108.39.159
 0.0.0.0	47.109.151.70
 0.0.0.0	47.109.77.84
-0.0.0.0	47.109.90.134
-0.0.0.0	47.109.93.252
-0.0.0.0	47.113.217.92
 0.0.0.0	47.116.197.65
-0.0.0.0	47.117.179.86
 0.0.0.0	47.119.34.138
-0.0.0.0	47.120.13.85
 0.0.0.0	47.120.46.210
 0.0.0.0	47.120.48.100
 0.0.0.0	47.92.246.30
 0.0.0.0	47.95.31.143
-0.0.0.0	47.96.13.97
 0.0.0.0	47.98.224.91
 0.0.0.0	471.cn
 0.0.0.0	47253.cn
@@ -1521,7 +1503,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	simba.6.cn
 0.0.0.0	union.6.cn
 0.0.0.0	60.166.36.5
-0.0.0.0	60.204.245.37
 0.0.0.0	60.22.23.50
 0.0.0.0	600912.com
 0.0.0.0	601book.com
@@ -1718,7 +1699,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.130.191.106
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.199.119
-0.0.0.0	8.137.114.210
 0.0.0.0	8.137.80.215
 0.0.0.0	8.138.182.17
 0.0.0.0	8.138.33.224
@@ -1742,7 +1722,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	80w19v.cn
 0.0.0.0	81.69.43.28
 0.0.0.0	81.70.85.113
-0.0.0.0	81.71.64.78
 0.0.0.0	81265.com
 0.0.0.0	m1.81312.com
 0.0.0.0	8158.com
@@ -1754,7 +1733,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	81mp.com
 0.0.0.0	81uav.cn
 0.0.0.0	81zw.com
-0.0.0.0	82.156.190.69
 0.0.0.0	82012.com
 0.0.0.0	82ky.com
 0.0.0.0	8315.cn
@@ -7085,7 +7063,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	redafewcav.edgeone.app
 0.0.0.0	sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 0.0.0.0	webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app
-0.0.0.0	workplacejjdd-sp69mevyb2.edgeone.app
 0.0.0.0	edgeone.site
 0.0.0.0	edhl.net
 0.0.0.0	edimob.com
@@ -9563,7 +9540,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zcb.hsdgk.cn
 0.0.0.0	hseda.com
 0.0.0.0	sh.hsfzexsg.com
-0.0.0.0	hshlz.cn
 0.0.0.0	hskj88.cn
 0.0.0.0	hslbl.com
 0.0.0.0	hsliuxue.cn
@@ -12850,7 +12826,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	maposafe.com
 0.0.0.0	maps-icloud.today
 0.0.0.0	jct.maptu.cn
-0.0.0.0	aeon-hospitf.margyy.cn
 0.0.0.0	marketin.cn
 0.0.0.0	marketup.cn
 0.0.0.0	markiapp.com
@@ -14790,7 +14765,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	petzp.com
 0.0.0.0	pfcexpress.com
 0.0.0.0	syzjsv4.pfmcchina.org
-0.0.0.0	pfrgx.cn
 0.0.0.0	pfskzj.cn
 0.0.0.0	pg2bk.icu
 0.0.0.0	eo.pgqoqv.cn
